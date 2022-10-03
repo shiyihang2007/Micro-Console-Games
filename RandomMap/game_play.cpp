@@ -18,6 +18,7 @@ int wayCh = ' ';
 int difficult_map[] = {10, 30, 50};
 int difficult_level = 2;
 int fogRegion = 5;
+int startLan = 0;
 unsigned long long timeCnt = 0;
 void cleanCon() {
 	SetColor(CON_COLOR(CON_COLOR_DARK_BLACK, CON_COLOR_LIGHT_WHITE));
@@ -29,12 +30,23 @@ class GameMap {
 	int mp[1005][1005];
 	int discovered[1005][1005];
 	int FogOn = 1;
+	int lanseDis = 0, lanseRegion = 5;
 public:
+	int LanseOn = 0;
 	void SetFog(int fog = -1) {
 		FogOn = fog == -1 ? !FogOn : fog;
 	}
+	void SetLanse(int lanse = -1) {
+		lanseDis = -lanseRegion + 1;
+		LanseOn = lanse == -1 ? !LanseOn : lanse;
+	}
+	void addDis() {
+		++lanseDis;
+	}
 	void makeMap() {
 		cleanCon();
+		startLan = 0;
+		LanseOn = 0;
 		while (1) {
 			SetColor(CON_COLOR(CON_COLOR_DARK_BLACK, CON_COLOR_DARK_WHITE));
 			for (int i = 0; i < 10; ++i)
@@ -88,11 +100,30 @@ public:
 	void posReLoad(int x, int y, int disableFog = 0) {
 		if (x > n + 1 || y > m + 1 || x < 0 || y < 0) return;
 		SetCursor(x, y);
+		if (mp[x][y] == 2) {
+			SetColor(CON_COLOR(CON_COLOR_DARK_YELLOW, CON_COLOR_LIGHT_WHITE));
+			putch(' '); putch(' ');
+			return;
+		}
+		if ((!disableFog && FogOn && LanseOn) && abs(sqrt(pow(abs(x0 - x), 2) + pow(abs(y0 - y), 2)) - lanseDis) < lanseRegion) {
+			if (mp[x][y] == 3) {
+				SetColor(CON_COLOR(CON_COLOR_DARK_RED, CON_COLOR_LIGHT_WHITE));
+			}
+			else if (mp[x][y] == 1) {
+				SetColor(CON_COLOR(CON_COLOR_DARK_GREEN, CON_COLOR_LIGHT_WHITE));
+			}
+			else {
+				SetColor(CON_COLOR(CON_COLOR_LIGHT_GREEN, CON_COLOR_LIGHT_WHITE));
+			}
+			putch(' '); putch(' ');
+			return;
+		}
 		if ((!disableFog && FogOn) && sqrt(pow(abs(x0 - x), 2) + pow(abs(y0 - y), 2)) - fogRegion > -0.1) {
 			SetColor(CON_COLOR(CON_COLOR_DARK_WHITE, CON_COLOR_LIGHT_WHITE));
 			putch(' '); putch(' ');
 			return;
 		}
+		
 		switch (mp[x][y]) {
 		case 0:
 			SetColor(CON_COLOR(CON_COLOR_LIGHT_WHITE, CON_COLOR_DARK_BLACK));
@@ -102,14 +133,10 @@ public:
 			SetColor(CON_COLOR(CON_COLOR_DARK_BLACK, CON_COLOR_LIGHT_WHITE));
 			putch(' '); putch(' ');
 			break;
-		case 2:
-			SetColor(CON_COLOR(CON_COLOR_DARK_YELLOW, CON_COLOR_DARK_BLACK));
-			putch(' '); putch(' ');
-			break;
 		case 3:
 			SetColor(CON_COLOR(CON_COLOR_LIGHT_RED, CON_COLOR_LIGHT_WHITE));
 			putch(' '); putch(' ');
-			break;
+			return;
 		case 4:
 			SetColor(CON_COLOR(CON_COLOR_DARK_BLACK, CON_COLOR_DARK_WHITE));
 			putch(wayCh); putch(wayCh);
@@ -124,6 +151,7 @@ public:
 		}
 	}
 	int goUp() {
+		SetLanse(0);
 		if (!mp[x0 - 1][y0]) return 0;
 		mp[x0][y0] = 4;
 		mp[x0 - 1][y0] = 2;
@@ -138,6 +166,7 @@ public:
 		return 1;
 	}
 	int goLeft() {
+		SetLanse(0);
 		if (!mp[x0][y0 - 1]) return 0;
 		mp[x0][y0] = 4;
 		mp[x0][y0 - 1] = 2;
@@ -152,6 +181,7 @@ public:
 		return 1;
 	}
 	int goRight() {
+		SetLanse(0);
 		if (!mp[x0][y0 + 1]) return 0;
 		mp[x0][y0] = 4;
 		mp[x0][y0 + 1] = 2;
@@ -166,6 +196,7 @@ public:
 		return 1;
 	}
 	int goDown() {
+		SetLanse(0);
 		if (!mp[x0 + 1][y0]) return 0;
 		mp[x0][y0] = 4;
 		mp[x0 + 1][y0] = 2;
@@ -356,6 +387,14 @@ int main(int argc, char const *argv[])
 				gMap.allReload(n, m);
 			}
 		}
+		if (timeCnt - startLan == 80) {
+			gMap.SetLanse(0);
+			gMap.allReload(n, m);
+		}
+		if (timeCnt % 1 == 0) {
+			gMap.addDis();
+			gMap.allReload(n, m);
+		}
 		if (timeCnt % 500 == 0) {
 			gMap.posReLoad(x1, y1, 1);
 		}
@@ -440,6 +479,14 @@ int main(int argc, char const *argv[])
 				gMap.clsMap();
 				gMap.makeMap();
 				gMap.allReload(n, m);
+				break;
+			case 'e':
+				if (gMap.LanseOn) {
+					break;
+				}
+				gMap.SetLanse(1);
+				gMap.allReload(n, m);
+				startLan = timeCnt;
 				break;
 			case KEY_ESC:
 				gameSettings();
