@@ -198,6 +198,10 @@ void ShowDifficultly() {
 	difficult_level %= 4;
 	SetCursor(3, 12);
 	printf("Difficult level: %s", (difficult_level == 0 ? "Easy" : difficult_level == 1 ? "Normal" : difficult_level == 2 ? "Hard" : difficult_level == 3 ? "Impossible" : "Error"));
+	freopen("game.ini", "w", stdout);
+	printf("%d", difficult_level);
+	fclose(stdout);
+	freopen("CON", "w", stdout);
 	Sleep(10);
 }
 int inReg(pos pt) {
@@ -307,6 +311,10 @@ int main(int argc, char const *argv[])
 	          CON_COLOR_LIGHT_BLACK, CON_COLOR_LIGHT_WHITE,
 	          CON_COLOR_DARK_WHITE, CON_COLOR_DARK_BLACK,
 	          "2.DIFFICULTLY");
+	freopen("game.ini", "r", stdin);
+	scanf("%d", &difficult_level);
+	fclose(stdin);
+	freopen("CON", "r", stdin);
 	gMap.clsMap();
 	gMap.makeMap();
 	freopen("CON", "r", stdin);
@@ -343,8 +351,10 @@ int main(int argc, char const *argv[])
 			}
 		}
 		else if (difficult_level == 3) {
-			gMap.SetFog();
-			gMap.allReload(n, m);
+			if (timeCnt == 1) {
+				gMap.SetFog();
+				gMap.allReload(n, m);
+			}
 		}
 		if (timeCnt % 500 == 0) {
 			gMap.posReLoad(x1, y1, 1);
