@@ -1,0 +1,4269 @@
+<info> AI dodge from 9 9
+<info> AI dodge to 5 13 AI.goOn=0
+<info> AI dodge count=8 AI.goOn=3
+<info> AI dodge from 8 16
+<info> AI dodge to 7 17 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 8 18
+<info> AI dodge to 7 19 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 17 17
+<info> AI dodge to 21 13 AI.goOn=0
+<info> AI dodge count=8 AI.goOn=3
+<info> AI dodge from 9 21
+<info> AI dodge to 13 25 AI.goOn=0
+<info> AI dodge count=8 AI.goOn=3
+<info> AI dodge from 8 2
+<info> AI dodge to 9 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 20 32
+<info> AI dodge to 18 34 AI.goOn=0
+<info> AI dodge count=4 AI.goOn=2
+<info> AI dodge from 9 3
+<info> AI dodge to 14 2 AI.goOn=0
+<info> AI dodge count=10 AI.goOn=3
+<info> AI dodge from 18 34
+<info> AI dodge to 12 37 AI.goOn=0
+<info> AI dodge count=9 AI.goOn=3
+<info> AI dodge from 12 37
+<info> AI dodge to 11 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 11 36
+<info> AI dodge to 10 35 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 14 2
+<info> AI dodge to 19 5 AI.goOn=0
+<info> AI dodge count=8 AI.goOn=3
+<info> AI dodge from 10 35
+<info> AI dodge to 9 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 9 36
+<info> AI dodge to 8 35 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 8 35
+<info> AI dodge to 7 34 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 7 34
+<info> AI dodge to 6 33 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 19 5
+<info> AI dodge to 22 6 AI.goOn=0
+<info> AI dodge count=6 AI.goOn=2
+<info> AI dodge from 22 6
+<info> AI dodge to 23 5 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 23 5
+<info> AI dodge to 24 4 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 6 33
+<info> AI dodge to 3 35 AI.goOn=0
+<info> AI dodge count=5 AI.goOn=2
+<info> AI dodge from 24 4
+<info> AI dodge to 25 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 3
+<info> AI dodge to 30 4 AI.goOn=0
+<info> AI dodge count=8 AI.goOn=3
+<info> AI dodge from 3 35
+<info> AI dodge to 25 36 AI.goOn=0
+<info> AI dodge count=39 AI.goOn=10
+<info> AI dodge from 30 4
+<info> AI dodge to 31 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 31 3
+<info> AI dodge to 32 4 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 32 4
+<info> AI dodge to 33 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 33 3
+<info> AI dodge to 32 4 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 32 4
+<info> AI dodge to 33 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 33 3
+<info> AI dodge to 34 2 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 36
+<info> AI dodge to 26 37 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 37
+<info> AI dodge to 25 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 36
+<info> AI dodge to 26 37 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 37
+<info> AI dodge to 25 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 36
+<info> AI dodge to 26 37 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 37
+<info> AI dodge to 25 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 36
+<info> AI dodge to 26 37 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 37
+<info> AI dodge to 25 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 22 16
+<info> AI dodge to 26 14 AI.goOn=0
+<info> AI dodge count=8 AI.goOn=3
+<info> AI dodge from 25 36
+<info> AI dodge to 26 37 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 37
+<info> AI dodge to 25 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 36
+<info> AI dodge to 26 37 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 14
+<info> AI dodge to 27 13 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 27 13
+<info> AI dodge to 28 14 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 28 14
+<info> AI dodge to 27 15 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 27 15
+<info> AI dodge to 26 14 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 37
+<info> AI dodge to 25 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 14
+<info> AI dodge to 27 15 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 27 15
+<info> AI dodge to 26 14 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 14
+<info> AI dodge to 27 15 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 36
+<info> AI dodge to 26 37 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 37
+<info> AI dodge to 25 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 27 15
+<info> AI dodge to 28 16 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 36
+<info> AI dodge to 26 37 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 37
+<info> AI dodge to 25 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 36
+<info> AI dodge to 26 37 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 28 16
+<info> AI dodge to 27 15 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 27 15
+<info> AI dodge to 28 14 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 37
+<info> AI dodge to 25 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 28 14
+<info> AI dodge to 27 13 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 27 13
+<info> AI dodge to 28 12 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 36
+<info> AI dodge to 26 37 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 28 12
+<info> AI dodge to 27 13 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 27 13
+<info> AI dodge to 28 14 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 28 14
+<info> AI dodge to 27 13 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 27 13
+<info> AI dodge to 28 14 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 37
+<info> AI dodge to 27 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 28 14
+<info> AI dodge to 29 13 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 13
+<info> AI dodge to 28 14 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 28 14
+<info> AI dodge to 27 15 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 27 15
+<info> AI dodge to 26 14 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 27 36
+<info> AI dodge to 28 35 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 14
+<info> AI dodge to 27 15 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 27 15
+<info> AI dodge to 26 16 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 16
+<info> AI dodge to 27 17 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 27 17
+<info> AI dodge to 26 16 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 16
+<info> AI dodge to 27 15 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 27 15
+<info> AI dodge to 26 16 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 16
+<info> AI dodge to 25 17 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 17
+<info> AI dodge to 24 18 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 24 18
+<info> AI dodge to 25 17 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 17
+<info> AI dodge to 24 18 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 24 18
+<info> AI dodge to 25 17 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 17
+<info> AI dodge to 26 16 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 16
+<info> AI dodge to 27 15 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 28 35
+<info> AI dodge to 29 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 27 15
+<info> AI dodge to 28 14 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 36
+<info> AI dodge to 30 37 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 28 14
+<info> AI dodge to 29 13 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 30 37
+<info> AI dodge to 33 36 AI.goOn=0
+<info> AI dodge count=4 AI.goOn=2
+<info> AI dodge from 29 13
+<info> AI dodge to 28 12 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 33 36
+<info> AI dodge to 34 37 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 34 37
+<info> AI dodge to 35 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 36
+<info> AI dodge to 36 37 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 28 12
+<info> AI dodge to 30 8 AI.goOn=0
+<info> AI dodge count=6 AI.goOn=2
+<info> AI dodge from 30 8
+<info> AI dodge to 31 7 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 37
+<info> AI dodge to 34 30 AI.goOn=0
+<info> AI dodge count=13 AI.goOn=4
+<info> AI dodge from 31 7
+<info> AI dodge to 32 6 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 32 6
+<info> AI dodge to 33 5 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 33 5
+<info> AI dodge to 34 4 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 34 30
+<info> AI dodge to 33 29 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 34 4
+<info> AI dodge to 33 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 33 29
+<info> AI dodge to 32 28 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 33 3
+<info> AI dodge to 34 2 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 34 2
+<info> AI dodge to 36 3 AI.goOn=0
+<info> AI dodge count=3 AI.goOn=1
+<info> AI dodge from 32 28
+<info> AI dodge to 31 27 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 3
+<info> AI dodge to 35 2 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 31 27
+<info> AI dodge to 30 26 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 2
+<info> AI dodge to 37 3 AI.goOn=0
+<info> AI dodge count=3 AI.goOn=1
+<info> AI dodge from 30 26
+<info> AI dodge to 29 25 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 37 3
+<info> AI dodge to 36 12 AI.goOn=0
+<info> AI dodge count=16 AI.goOn=5
+<info> AI dodge from 29 25
+<info> AI dodge to 30 24 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 30 24
+<info> AI dodge to 31 23 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 12
+<info> AI dodge to 35 13 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 31 23
+<info> AI dodge to 32 22 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 32 22
+<info> AI dodge to 33 23 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 33 23
+<info> AI dodge to 32 22 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 13
+<info> AI dodge to 34 14 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 32 22
+<info> AI dodge to 33 21 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 34 14
+<info> AI dodge to 33 13 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 33 13
+<info> AI dodge to 32 14 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 32 14
+<info> AI dodge to 33 15 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 33 21
+<info> AI dodge to 32 22 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 33 15
+<info> AI dodge to 34 16 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 32 22
+<info> AI dodge to 29 21 AI.goOn=0
+<info> AI dodge count=4 AI.goOn=2
+<info> AI dodge from 34 16
+<info> AI dodge to 33 15 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 33 15
+<info> AI dodge to 32 16 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 32 16
+<info> AI dodge to 33 15 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 21
+<info> AI dodge to 27 23 AI.goOn=0
+<info> AI dodge count=4 AI.goOn=2
+<info> AI dodge from 33 15
+<info> AI dodge to 34 16 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 34 16
+<info> AI dodge to 33 15 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 33 15
+<info> AI dodge to 32 16 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 32 16
+<info> AI dodge to 31 17 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 27 23
+<info> AI dodge to 26 24 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 31 17
+<info> AI dodge to 30 16 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 24
+<info> AI dodge to 25 23 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 30 16
+<info> AI dodge to 29 17 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 23
+<info> AI dodge to 26 24 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 24
+<info> AI dodge to 25 23 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 17
+<info> AI dodge to 30 16 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 23
+<info> AI dodge to 24 24 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 30 16
+<info> AI dodge to 29 17 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 24 24
+<info> AI dodge to 25 23 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 17
+<info> AI dodge to 28 16 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 23
+<info> AI dodge to 24 24 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 28 16
+<info> AI dodge to 27 17 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 24 24
+<info> AI dodge to 25 23 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 23
+<info> AI dodge to 24 24 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 24 24
+<info> AI dodge to 23 25 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 23 25
+<info> AI dodge to 24 24 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 27 17
+<info> AI dodge to 26 14 AI.goOn=0
+<info> AI dodge count=6 AI.goOn=2
+<info> AI dodge from 24 24
+<info> AI dodge to 23 25 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 14
+<info> AI dodge to 27 12 AI.goOn=0
+<info> AI dodge count=3 AI.goOn=1
+<info> AI dodge from 27 12
+<info> AI dodge to 26 10 AI.goOn=0
+<info> AI dodge count=3 AI.goOn=1
+<info> AI dodge from 26 10
+<info> AI dodge to 27 9 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 27 9
+<info> AI dodge to 26 8 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 8
+<info> AI dodge to 25 7 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 31 17
+<info> AI dodge to 30 15 AI.goOn=0
+<info> AI dodge count=3 AI.goOn=1
+<info> AI dodge from 32 13
+<info> AI dodge to 33 14 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 34 13
+<info> AI dodge to 33 12 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 7
+<info> AI dodge to 24 6 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 11
+<info> AI dodge to 34 10 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 24 6
+<info> AI dodge to 23 5 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 10
+<info> AI dodge to 36 11 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 23 5
+<info> AI dodge to 22 4 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 37 11
+<info> AI dodge to 36 12 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 22 4
+<info> AI dodge to 23 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 12
+<info> AI dodge to 37 11 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 23 3
+<info> AI dodge to 24 2 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 37 11
+<info> AI dodge to 36 10 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 10
+<info> AI dodge to 37 11 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 24 2
+<info> AI dodge to 25 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 37 11
+<info> AI dodge to 36 10 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 3
+<info> AI dodge to 26 2 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 10
+<info> AI dodge to 35 9 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 2
+<info> AI dodge to 31 4 AI.goOn=0
+<info> AI dodge count=7 AI.goOn=2
+<info> AI dodge from 31 4
+<info> AI dodge to 32 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 9
+<info> AI dodge to 37 7 AI.goOn=0
+<info> AI dodge count=4 AI.goOn=2
+<info> AI dodge from 32 3
+<info> AI dodge to 33 2 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 37 7
+<info> AI dodge to 36 8 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 33 2
+<info> AI dodge to 32 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 8
+<info> AI dodge to 28 7 AI.goOn=0
+<info> AI dodge count=15 AI.goOn=4
+<info> AI dodge from 32 3
+<info> AI dodge to 21 5 AI.goOn=0
+<info> AI dodge count=15 AI.goOn=4
+<info> AI dodge from 28 7
+<info> AI dodge to 26 9 AI.goOn=0
+<info> AI dodge count=4 AI.goOn=2
+<info> AI dodge from 26 9
+<info> AI dodge to 22 13 AI.goOn=0
+<info> AI dodge count=8 AI.goOn=3
+<info> AI dodge from 21 5
+<info> AI dodge to 18 6 AI.goOn=0
+<info> AI dodge count=6 AI.goOn=2
+<info> AI dodge from 18 6
+<info> AI dodge to 16 8 AI.goOn=0
+<info> AI dodge count=4 AI.goOn=2
+<info> AI dodge from 16 8
+<info> AI dodge to 13 9 AI.goOn=0
+<info> AI dodge count=6 AI.goOn=2
+<info> AI dodge from 22 13
+<info> AI dodge to 27 18 AI.goOn=0
+<info> AI dodge count=10 AI.goOn=3
+<info> AI dodge from 27 18
+<info> AI dodge to 29 20 AI.goOn=0
+<info> AI dodge count=4 AI.goOn=2
+<info> AI dodge from 13 9
+<info> AI dodge to 12 14 AI.goOn=0
+<info> AI dodge count=8 AI.goOn=3
+<info> AI dodge from 29 20
+<info> AI dodge to 28 22 AI.goOn=0
+<info> AI dodge count=3 AI.goOn=1
+<info> AI dodge from 28 22
+<info> AI dodge to 27 23 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 12 14
+<info> AI dodge to 10 16 AI.goOn=0
+<info> AI dodge count=4 AI.goOn=2
+<info> AI dodge from 27 23
+<info> AI dodge to 28 25 AI.goOn=0
+<info> AI dodge count=3 AI.goOn=1
+<info> AI dodge from 28 25
+<info> AI dodge to 29 26 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 26
+<info> AI dodge to 28 27 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 28 27
+<info> AI dodge to 27 28 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 27 28
+<info> AI dodge to 26 29 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 10 16
+<info> AI dodge to 11 19 AI.goOn=0
+<info> AI dodge count=6 AI.goOn=2
+<info> AI dodge from 26 29
+<info> AI dodge to 25 30 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 11 19
+<info> AI dodge to 12 21 AI.goOn=0
+<info> AI dodge count=3 AI.goOn=1
+<info> AI dodge from 12 21
+<info> AI dodge to 11 22 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 30
+<info> AI dodge to 24 31 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 11 22
+<info> AI dodge to 12 23 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 24 31
+<info> AI dodge to 25 32 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 32
+<info> AI dodge to 26 33 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 12 23
+<info> AI dodge to 11 24 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 11 24
+<info> AI dodge to 12 23 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 33
+<info> AI dodge to 25 32 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 12 23
+<info> AI dodge to 11 24 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 32
+<info> AI dodge to 24 33 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 11 24
+<info> AI dodge to 10 23 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 10 23
+<info> AI dodge to 11 24 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 24 33
+<info> AI dodge to 23 34 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 11 24
+<info> AI dodge to 10 25 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 23 34
+<info> AI dodge to 22 35 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 10 25
+<info> AI dodge to 11 24 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 22 35
+<info> AI dodge to 21 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 11 24
+<info> AI dodge to 10 25 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 10 25
+<info> AI dodge to 11 26 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 11 26
+<info> AI dodge to 10 27 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 21 36
+<info> AI dodge to 22 35 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 10 27
+<info> AI dodge to 9 26 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 22 35
+<info> AI dodge to 23 34 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 23 34
+<info> AI dodge to 22 35 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 9 26
+<info> AI dodge to 10 27 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 22 35
+<info> AI dodge to 23 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 23 36
+<info> AI dodge to 24 37 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 10 27
+<info> AI dodge to 9 26 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 9 26
+<info> AI dodge to 10 27 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 10 27
+<info> AI dodge to 11 28 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 24 37
+<info> AI dodge to 23 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 11 28
+<info> AI dodge to 10 27 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 10 27
+<info> AI dodge to 9 26 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 9 26
+<info> AI dodge to 8 27 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 23 36
+<info> AI dodge to 24 37 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 24 37
+<info> AI dodge to 25 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 36
+<info> AI dodge to 26 37 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 8 27
+<info> AI dodge to 7 28 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 37
+<info> AI dodge to 25 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 36
+<info> AI dodge to 24 37 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 7 28
+<info> AI dodge to 6 27 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 24 37
+<info> AI dodge to 23 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 6 27
+<info> AI dodge to 5 28 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 23 36
+<info> AI dodge to 24 37 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 5 28
+<info> AI dodge to 4 27 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 24 37
+<info> AI dodge to 25 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 36
+<info> AI dodge to 24 37 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 4 27
+<info> AI dodge to 3 26 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 3 26
+<info> AI dodge to 2 27 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 24 37
+<info> AI dodge to 23 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 23 36
+<info> AI dodge to 24 37 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 24 37
+<info> AI dodge to 25 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 36
+<info> AI dodge to 26 37 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 37
+<info> AI dodge to 27 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 27 36
+<info> AI dodge to 28 37 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 2 27
+<info> AI dodge to 3 23 AI.goOn=0
+<info> AI dodge count=5 AI.goOn=2
+<info> AI dodge from 28 37
+<info> AI dodge to 29 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 36
+<info> AI dodge to 28 35 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 28 35
+<info> AI dodge to 29 34 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 3 23
+<info> AI dodge to 4 22 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 4 22
+<info> AI dodge to 3 21 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 34
+<info> AI dodge to 30 33 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 3 21
+<info> AI dodge to 4 20 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 30 33
+<info> AI dodge to 31 32 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 31 32
+<info> AI dodge to 32 31 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 4 20
+<info> AI dodge to 3 21 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 32 31
+<info> AI dodge to 31 30 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 31 30
+<info> AI dodge to 30 29 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 3 21
+<info> AI dodge to 2 20 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 30 29
+<info> AI dodge to 29 28 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 2 20
+<info> AI dodge to 3 19 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 28
+<info> AI dodge to 28 27 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 3 19
+<info> AI dodge to 4 18 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 28 27
+<info> AI dodge to 27 26 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 4 18
+<info> AI dodge to 3 17 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 27 26
+<info> AI dodge to 28 25 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 28 25
+<info> AI dodge to 29 26 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 26
+<info> AI dodge to 30 25 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 3 17
+<info> AI dodge to 4 18 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 4 18
+<info> AI dodge to 3 17 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 30 25
+<info> AI dodge to 31 26 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 3 17
+<info> AI dodge to 2 16 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 2 16
+<info> AI dodge to 3 15 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 31 26
+<info> AI dodge to 32 25 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 32 25
+<info> AI dodge to 33 24 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 3 15
+<info> AI dodge to 2 16 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 33 24
+<info> AI dodge to 34 23 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 2 16
+<info> AI dodge to 3 15 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 34 23
+<info> AI dodge to 33 22 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 3 15
+<info> AI dodge to 4 14 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 33 22
+<info> AI dodge to 32 21 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 4 14
+<info> AI dodge to 3 15 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 3 15
+<info> AI dodge to 2 14 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 23 16
+<info> AI dodge to 22 15 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 2 14
+<info> AI dodge to 3 13 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 3 13
+<info> AI dodge to 2 14 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 22 15
+<info> AI dodge to 24 17 AI.goOn=0
+<info> AI dodge count=4 AI.goOn=2
+<info> AI dodge from 2 14
+<info> AI dodge to 3 13 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 24 17
+<info> AI dodge to 27 19 AI.goOn=0
+<info> AI dodge count=5 AI.goOn=2
+<info> AI dodge from 3 13
+<info> AI dodge to 2 14 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 2 14
+<info> AI dodge to 3 13 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 3 13
+<info> AI dodge to 2 14 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 2 14
+<info> AI dodge to 3 9 AI.goOn=0
+<info> AI dodge count=8 AI.goOn=3
+<info> AI dodge from 3 9
+<info> AI dodge to 2 8 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 27 19
+<info> AI dodge to 28 20 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 2 8
+<info> AI dodge to 3 7 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 28 20
+<info> AI dodge to 29 21 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 3 7
+<info> AI dodge to 4 6 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 21
+<info> AI dodge to 28 22 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 28 22
+<info> AI dodge to 27 21 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 27 21
+<info> AI dodge to 28 22 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 28 22
+<info> AI dodge to 27 21 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 4 6
+<info> AI dodge to 5 5 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 27 21
+<info> AI dodge to 26 20 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 5 5
+<info> AI dodge to 3 3 AI.goOn=0
+<info> AI dodge count=4 AI.goOn=2
+<info> AI dodge from 26 20
+<info> AI dodge to 25 19 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 3 3
+<info> AI dodge to 4 2 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 19
+<info> AI dodge to 24 18 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 4 2
+<info> AI dodge to 10 3 AI.goOn=0
+<info> AI dodge count=9 AI.goOn=3
+<info> AI dodge from 10 3
+<info> AI dodge to 11 2 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 11 2
+<info> AI dodge to 12 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 12 3
+<info> AI dodge to 13 2 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 13 2
+<info> AI dodge to 14 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 14 3
+<info> AI dodge to 15 4 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 19 13
+<info> AI dodge to 18 14 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 15 4
+<info> AI dodge to 14 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 14 3
+<info> AI dodge to 15 2 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 15 2
+<info> AI dodge to 16 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 18 14
+<info> AI dodge to 19 16 AI.goOn=0
+<info> AI dodge count=3 AI.goOn=1
+<info> AI dodge from 19 16
+<info> AI dodge to 21 18 AI.goOn=0
+<info> AI dodge count=4 AI.goOn=2
+<info> AI dodge from 16 3
+<info> AI dodge to 23 2 AI.goOn=0
+<info> AI dodge count=10 AI.goOn=3
+<info> AI dodge from 21 18
+<info> AI dodge to 20 19 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 20 19
+<info> AI dodge to 21 20 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 23 2
+<info> AI dodge to 24 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 21 20
+<info> AI dodge to 20 21 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 24 3
+<info> AI dodge to 25 2 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 20 21
+<info> AI dodge to 19 20 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 2
+<info> AI dodge to 26 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 3
+<info> AI dodge to 25 2 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 19 20
+<info> AI dodge to 18 21 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 2
+<info> AI dodge to 26 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 18 21
+<info> AI dodge to 17 22 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 3
+<info> AI dodge to 27 2 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 27 2
+<info> AI dodge to 26 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 17 22
+<info> AI dodge to 16 23 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 3
+<info> AI dodge to 27 4 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 16 23
+<info> AI dodge to 15 24 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 15 24
+<info> AI dodge to 16 23 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 27 4
+<info> AI dodge to 26 5 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 5
+<info> AI dodge to 27 6 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 16 23
+<info> AI dodge to 17 24 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 27 6
+<info> AI dodge to 28 5 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 28 5
+<info> AI dodge to 29 4 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 17 24
+<info> AI dodge to 16 23 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 4
+<info> AI dodge to 30 5 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 16 23
+<info> AI dodge to 17 24 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 17 24
+<info> AI dodge to 16 25 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 16 25
+<info> AI dodge to 17 24 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 17 24
+<info> AI dodge to 16 25 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 30 5
+<info> AI dodge to 31 6 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 16 25
+<info> AI dodge to 15 26 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 15 26
+<info> AI dodge to 14 27 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 19 22
+<info> AI dodge to 20 25 AI.goOn=0
+<info> AI dodge count=6 AI.goOn=2
+<info> AI dodge from 20 25
+<info> AI dodge to 19 26 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 8
+<info> AI dodge to 30 7 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 19 26
+<info> AI dodge to 18 25 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 30 7
+<info> AI dodge to 29 6 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 18 25
+<info> AI dodge to 19 26 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 6
+<info> AI dodge to 31 2 AI.goOn=0
+<info> AI dodge count=8 AI.goOn=3
+<info> AI dodge from 19 26
+<info> AI dodge to 18 27 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 18 27
+<info> AI dodge to 17 29 AI.goOn=0
+<info> AI dodge count=3 AI.goOn=1
+<info> AI dodge from 17 29
+<info> AI dodge to 16 30 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 16 30
+<info> AI dodge to 14 32 AI.goOn=0
+<info> AI dodge count=4 AI.goOn=2
+<info> AI dodge from 31 2
+<info> AI dodge to 36 3 AI.goOn=0
+<info> AI dodge count=8 AI.goOn=3
+<info> AI dodge from 36 3
+<info> AI dodge to 37 2 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 37 2
+<info> AI dodge to 35 8 AI.goOn=0
+<info> AI dodge count=10 AI.goOn=3
+<info> AI dodge from 14 32
+<info> AI dodge to 12 37 AI.goOn=0
+<info> AI dodge count=9 AI.goOn=3
+<info> AI dodge from 35 8
+<info> AI dodge to 37 10 AI.goOn=0
+<info> AI dodge count=4 AI.goOn=2
+<info> AI dodge from 12 37
+<info> AI dodge to 8 36 AI.goOn=0
+<info> AI dodge count=5 AI.goOn=2
+<info> AI dodge from 37 10
+<info> AI dodge to 34 15 AI.goOn=0
+<info> AI dodge count=10 AI.goOn=3
+<info> AI dodge from 8 36
+<info> AI dodge to 7 35 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 7 35
+<info> AI dodge to 6 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 34 15
+<info> AI dodge to 35 16 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 6 36
+<info> AI dodge to 5 35 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 16
+<info> AI dodge to 34 17 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 5 35
+<info> AI dodge to 4 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 34 17
+<info> AI dodge to 36 19 AI.goOn=0
+<info> AI dodge count=4 AI.goOn=2
+<info> AI dodge from 4 36
+<info> AI dodge to 3 37 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 19
+<info> AI dodge to 35 21 AI.goOn=0
+<info> AI dodge count=3 AI.goOn=1
+<info> AI dodge from 3 37
+<info> AI dodge to 2 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 21
+<info> AI dodge to 34 23 AI.goOn=0
+<info> AI dodge count=3 AI.goOn=1
+<info> AI dodge from 2 36
+<info> AI dodge to 3 30 AI.goOn=0
+<info> AI dodge count=9 AI.goOn=3
+<info> AI dodge from 34 23
+<info> AI dodge to 33 24 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 33 24
+<info> AI dodge to 32 25 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 3 30
+<info> AI dodge to 2 29 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 32 25
+<info> AI dodge to 33 26 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 33 26
+<info> AI dodge to 32 25 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 2 29
+<info> AI dodge to 3 28 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 32 25
+<info> AI dodge to 31 26 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 3 28
+<info> AI dodge to 2 29 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 2 29
+<info> AI dodge to 3 28 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 3 28
+<info> AI dodge to 2 27 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 31 26
+<info> AI dodge to 30 27 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 2 27
+<info> AI dodge to 3 26 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 30 27
+<info> AI dodge to 29 26 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 26
+<info> AI dodge to 28 25 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 3 26
+<info> AI dodge to 2 25 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 28 25
+<info> AI dodge to 27 26 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 2 25
+<info> AI dodge to 3 24 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 27 26
+<info> AI dodge to 26 25 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 25
+<info> AI dodge to 25 24 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 3 24
+<info> AI dodge to 2 23 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 2 23
+<info> AI dodge to 3 24 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 3 24
+<info> AI dodge to 2 25 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 2 25
+<info> AI dodge to 3 24 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 24
+<info> AI dodge to 26 25 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 3 24
+<info> AI dodge to 2 23 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 25
+<info> AI dodge to 25 24 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 2 23
+<info> AI dodge to 3 22 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 3 22
+<info> AI dodge to 4 21 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 24
+<info> AI dodge to 24 23 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 4 21
+<info> AI dodge to 3 20 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 14 27
+<info> AI dodge to 13 30 AI.goOn=0
+<info> AI dodge count=6 AI.goOn=2
+<info> AI dodge from 13 32
+<info> AI dodge to 12 33 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 9 9
+<info> AI dodge to 7 11 AI.goOn=0
+<info> AI dodge count=4 AI.goOn=2
+<info> AI dodge from 12 37
+<info> AI dodge to 11 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 7 11
+<info> AI dodge to 5 14 AI.goOn=0
+<info> AI dodge count=5 AI.goOn=2
+<info> AI dodge from 11 37
+<info> AI dodge to 5 36 AI.goOn=0
+<info> AI dodge count=7 AI.goOn=2
+<info> AI dodge from 5 14
+<info> AI dodge to 2 17 AI.goOn=0
+<info> AI dodge count=6 AI.goOn=2
+<info> AI dodge from 5 36
+<info> AI dodge to 17 34 AI.goOn=0
+<info> AI dodge count=22 AI.goOn=6
+<info> AI dodge from 2 17
+<info> AI dodge to 3 21 AI.goOn=0
+<info> AI dodge count=5 AI.goOn=2
+<info> AI dodge from 3 21
+<info> AI dodge to 2 20 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 2 20
+<info> AI dodge to 3 21 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 3 21
+<info> AI dodge to 2 33 AI.goOn=0
+<info> AI dodge count=17 AI.goOn=5
+<info> AI dodge from 17 34
+<info> AI dodge to 22 29 AI.goOn=0
+<info> AI dodge count=10 AI.goOn=3
+<info> AI dodge from 2 33
+<info> AI dodge to 17 26 AI.goOn=0
+<info> AI dodge count=30 AI.goOn=8
+<info> AI dodge from 22 29
+<info> AI dodge to 20 22 AI.goOn=0
+<info> AI dodge count=11 AI.goOn=3
+<info> AI dodge from 17 26
+<info> AI dodge to 16 19 AI.goOn=0
+<info> AI dodge count=12 AI.goOn=4
+<info> AI dodge from 16 19
+<info> AI dodge to 18 15 AI.goOn=0
+<info> AI dodge count=8 AI.goOn=3
+<info> AI dodge from 20 22
+<info> AI dodge to 25 17 AI.goOn=0
+<info> AI dodge count=10 AI.goOn=3
+<info> AI dodge from 18 15
+<info> AI dodge to 23 11 AI.goOn=0
+<info> AI dodge count=9 AI.goOn=3
+<info> AI dodge from 25 17
+<info> AI dodge to 29 13 AI.goOn=0
+<info> AI dodge count=8 AI.goOn=3
+<info> AI dodge from 29 13
+<info> AI dodge to 30 14 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 30 14
+<info> AI dodge to 29 13 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 23 11
+<info> AI dodge to 24 10 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 24 10
+<info> AI dodge to 23 9 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 13
+<info> AI dodge to 30 12 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 23 9
+<info> AI dodge to 24 10 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 24 10
+<info> AI dodge to 25 11 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 30 12
+<info> AI dodge to 31 11 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 11
+<info> AI dodge to 24 10 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 24 10
+<info> AI dodge to 25 11 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 11
+<info> AI dodge to 24 10 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 31 11
+<info> AI dodge to 32 10 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 24 10
+<info> AI dodge to 23 9 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 23 9
+<info> AI dodge to 24 8 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 32 10
+<info> AI dodge to 33 9 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 24 8
+<info> AI dodge to 23 7 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 23 7
+<info> AI dodge to 22 8 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 22 8
+<info> AI dodge to 21 7 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 21 7
+<info> AI dodge to 20 6 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 20 6
+<info> AI dodge to 21 5 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 21 5
+<info> AI dodge to 22 4 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 22 4
+<info> AI dodge to 23 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 23 3
+<info> AI dodge to 22 4 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 22 4
+<info> AI dodge to 23 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 23 3
+<info> AI dodge to 22 2 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 22 2
+<info> AI dodge to 21 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 21 3
+<info> AI dodge to 20 2 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 2
+<info> AI dodge to 30 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 20 2
+<info> AI dodge to 18 3 AI.goOn=0
+<info> AI dodge count=3 AI.goOn=1
+<info> AI dodge from 18 3
+<info> AI dodge to 16 2 AI.goOn=0
+<info> AI dodge count=3 AI.goOn=1
+<info> AI dodge from 16 2
+<info> AI dodge to 21 8 AI.goOn=0
+<info> AI dodge count=11 AI.goOn=3
+<info> AI dodge from 24 2
+<info> AI dodge to 25 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 24 3
+<info> AI dodge to 25 2 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 21 8
+<info> AI dodge to 26 9 AI.goOn=0
+<info> AI dodge count=10 AI.goOn=3
+<info> AI dodge from 25 2
+<info> AI dodge to 29 4 AI.goOn=0
+<info> AI dodge count=6 AI.goOn=2
+<info> AI dodge from 29 4
+<info> AI dodge to 32 6 AI.goOn=0
+<info> AI dodge count=5 AI.goOn=2
+<info> AI dodge from 26 9
+<info> AI dodge to 29 12 AI.goOn=0
+<info> AI dodge count=6 AI.goOn=2
+<info> AI dodge from 32 6
+<info> AI dodge to 34 5 AI.goOn=0
+<info> AI dodge count=3 AI.goOn=1
+<info> AI dodge from 34 5
+<info> AI dodge to 35 4 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 4
+<info> AI dodge to 36 5 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 12
+<info> AI dodge to 33 14 AI.goOn=0
+<info> AI dodge count=6 AI.goOn=2
+<info> AI dodge from 36 5
+<info> AI dodge to 37 6 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 37 6
+<info> AI dodge to 27 12 AI.goOn=0
+<info> AI dodge count=18 AI.goOn=5
+<info> AI dodge from 33 14
+<info> AI dodge to 36 15 AI.goOn=0
+<info> AI dodge count=6 AI.goOn=2
+<info> AI dodge from 36 15
+<info> AI dodge to 34 20 AI.goOn=0
+<info> AI dodge count=9 AI.goOn=3
+<info> AI dodge from 34 20
+<info> AI dodge to 32 24 AI.goOn=0
+<info> AI dodge count=6 AI.goOn=2
+<info> AI dodge from 27 12
+<info> AI dodge to 29 16 AI.goOn=0
+<info> AI dodge count=8 AI.goOn=3
+<info> AI dodge from 32 24
+<info> AI dodge to 33 25 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 33 25
+<info> AI dodge to 32 26 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 16
+<info> AI dodge to 36 14 AI.goOn=0
+<info> AI dodge count=13 AI.goOn=4
+<info> AI dodge from 32 26
+<info> AI dodge to 33 25 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 33 25
+<info> AI dodge to 36 30 AI.goOn=0
+<info> AI dodge count=8 AI.goOn=3
+<info> AI dodge from 36 14
+<info> AI dodge to 37 15 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 37 15
+<info> AI dodge to 36 6 AI.goOn=0
+<info> AI dodge count=14 AI.goOn=4
+<info> AI dodge from 36 30
+<info> AI dodge to 37 33 AI.goOn=0
+<info> AI dodge count=4 AI.goOn=2
+<info> AI dodge from 37 33
+<info> AI dodge to 36 34 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 6
+<info> AI dodge to 35 5 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 34
+<info> AI dodge to 37 35 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 37 35
+<info> AI dodge to 36 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 5
+<info> AI dodge to 36 4 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 36
+<info> AI dodge to 35 37 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 4
+<info> AI dodge to 35 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 37
+<info> AI dodge to 36 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 36
+<info> AI dodge to 35 37 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 37
+<info> AI dodge to 36 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 3
+<info> AI dodge to 36 2 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 36
+<info> AI dodge to 37 37 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 37 37
+<info> AI dodge to 30 36 AI.goOn=0
+<info> AI dodge count=10 AI.goOn=3
+<info> AI dodge from 30 36
+<info> AI dodge to 29 35 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 35
+<info> AI dodge to 30 34 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 30 34
+<info> AI dodge to 29 33 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 33
+<info> AI dodge to 28 32 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 28 32
+<info> AI dodge to 27 31 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 27 31
+<info> AI dodge to 26 30 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 13
+<info> AI dodge to 26 12 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 30
+<info> AI dodge to 27 29 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 27 29
+<info> AI dodge to 28 30 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 23 15
+<info> AI dodge to 24 16 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 24 16
+<info> AI dodge to 23 14 AI.goOn=0
+<info> AI dodge count=3 AI.goOn=1
+<info> AI dodge from 28 30
+<info> AI dodge to 25 35 AI.goOn=0
+<info> AI dodge count=8 AI.goOn=3
+<info> AI dodge from 23 14
+<info> AI dodge to 24 19 AI.goOn=0
+<info> AI dodge count=8 AI.goOn=3
+<info> AI dodge from 25 35
+<info> AI dodge to 21 37 AI.goOn=0
+<info> AI dodge count=6 AI.goOn=2
+<info> AI dodge from 21 37
+<info> AI dodge to 20 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 20 36
+<info> AI dodge to 19 37 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 24 19
+<info> AI dodge to 28 23 AI.goOn=0
+<info> AI dodge count=8 AI.goOn=3
+<info> AI dodge from 19 37
+<info> AI dodge to 18 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 18 36
+<info> AI dodge to 17 35 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 17 35
+<info> AI dodge to 16 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 16 36
+<info> AI dodge to 15 35 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 28 23
+<info> AI dodge to 32 22 AI.goOn=0
+<info> AI dodge count=7 AI.goOn=2
+<info> AI dodge from 15 35
+<info> AI dodge to 14 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 14 36
+<info> AI dodge to 13 37 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 32 22
+<info> AI dodge to 34 23 AI.goOn=0
+<info> AI dodge count=3 AI.goOn=1
+<info> AI dodge from 13 37
+<info> AI dodge to 12 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 34 23
+<info> AI dodge to 35 22 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 12 36
+<info> AI dodge to 11 35 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 11 35
+<info> AI dodge to 12 34 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 22
+<info> AI dodge to 36 21 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 12 34
+<info> AI dodge to 11 33 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 11 33
+<info> AI dodge to 10 32 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 10 32
+<info> AI dodge to 9 31 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 21
+<info> AI dodge to 37 20 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 9 31
+<info> AI dodge to 8 30 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 37 20
+<info> AI dodge to 35 16 AI.goOn=0
+<info> AI dodge count=6 AI.goOn=2
+<info> AI dodge from 8 30
+<info> AI dodge to 7 31 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 16
+<info> AI dodge to 36 15 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 15
+<info> AI dodge to 35 16 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 16
+<info> AI dodge to 36 15 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 9 29
+<info> AI dodge to 8 30 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 15
+<info> AI dodge to 37 14 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 8 30
+<info> AI dodge to 7 31 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 7 31
+<info> AI dodge to 8 30 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 37 14
+<info> AI dodge to 36 13 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 13
+<info> AI dodge to 35 14 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 8 30
+<info> AI dodge to 7 31 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 7 31
+<info> AI dodge to 6 30 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 14
+<info> AI dodge to 34 13 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 34 13
+<info> AI dodge to 33 12 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 33 12
+<info> AI dodge to 32 11 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 6 30
+<info> AI dodge to 7 31 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 7 31
+<info> AI dodge to 6 30 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 6 30
+<info> AI dodge to 5 29 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 5 29
+<info> AI dodge to 4 30 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 4 30
+<info> AI dodge to 3 31 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 23 20
+<info> AI dodge to 24 21 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 24 21
+<info> AI dodge to 23 20 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 23 20
+<info> AI dodge to 24 21 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 24 21
+<info> AI dodge to 26 17 AI.goOn=0
+<info> AI dodge count=6 AI.goOn=2
+<info> AI dodge from 26 17
+<info> AI dodge to 25 16 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 16
+<info> AI dodge to 24 13 AI.goOn=0
+<info> AI dodge count=4 AI.goOn=2
+<info> AI dodge from 24 13
+<info> AI dodge to 26 11 AI.goOn=0
+<info> AI dodge count=4 AI.goOn=2
+<info> AI dodge from 16 22
+<info> AI dodge to 15 23 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 15 23
+<info> AI dodge to 14 22 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 11
+<info> AI dodge to 24 9 AI.goOn=0
+<info> AI dodge count=4 AI.goOn=2
+<info> AI dodge from 14 22
+<info> AI dodge to 15 23 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 24 9
+<info> AI dodge to 22 7 AI.goOn=0
+<info> AI dodge count=4 AI.goOn=2
+<info> AI dodge from 15 23
+<info> AI dodge to 14 22 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 14 22
+<info> AI dodge to 15 23 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 15 23
+<info> AI dodge to 16 22 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 16 22
+<info> AI dodge to 15 23 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 15 23
+<info> AI dodge to 16 22 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 22 7
+<info> AI dodge to 25 4 AI.goOn=0
+<info> AI dodge count=6 AI.goOn=2
+<info> AI dodge from 16 22
+<info> AI dodge to 17 21 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 17 21
+<info> AI dodge to 16 20 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 4
+<info> AI dodge to 24 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 24 3
+<info> AI dodge to 25 2 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 2
+<info> AI dodge to 24 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 24 3
+<info> AI dodge to 23 2 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 23 2
+<info> AI dodge to 18 4 AI.goOn=0
+<info> AI dodge count=7 AI.goOn=2
+<info> AI dodge from 18 4
+<info> AI dodge to 17 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 17 3
+<info> AI dodge to 16 4 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 16 4
+<info> AI dodge to 15 5 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 15 5
+<info> AI dodge to 14 4 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 14 4
+<info> AI dodge to 13 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 13 3
+<info> AI dodge to 12 4 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 17 6
+<info> AI dodge to 16 5 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 17 5
+<info> AI dodge to 16 4 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 14 14
+<info> AI dodge to 19 17 AI.goOn=0
+<info> AI dodge count=8 AI.goOn=3
+<info> AI dodge from 17 4
+<info> AI dodge to 18 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 19 3
+<info> AI dodge to 18 2 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 19 2
+<info> AI dodge to 21 4 AI.goOn=0
+<info> AI dodge count=4 AI.goOn=2
+<info> AI dodge from 19 13
+<info> AI dodge to 24 10 AI.goOn=0
+<info> AI dodge count=8 AI.goOn=3
+<info> AI dodge from 22 4
+<info> AI dodge to 26 6 AI.goOn=0
+<info> AI dodge count=8 AI.goOn=3
+<info> AI dodge from 24 10
+<info> AI dodge to 28 13 AI.goOn=0
+<info> AI dodge count=7 AI.goOn=2
+<info> AI dodge from 26 6
+<info> AI dodge to 31 7 AI.goOn=0
+<info> AI dodge count=10 AI.goOn=3
+<info> AI dodge from 28 13
+<info> AI dodge to 32 16 AI.goOn=0
+<info> AI dodge count=7 AI.goOn=2
+<info> AI dodge from 32 16
+<info> AI dodge to 33 17 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 31 7
+<info> AI dodge to 35 10 AI.goOn=0
+<info> AI dodge count=7 AI.goOn=2
+<info> AI dodge from 33 17
+<info> AI dodge to 35 20 AI.goOn=0
+<info> AI dodge count=5 AI.goOn=2
+<info> AI dodge from 35 10
+<info> AI dodge to 36 11 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 11
+<info> AI dodge to 37 12 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 20
+<info> AI dodge to 32 23 AI.goOn=0
+<info> AI dodge count=6 AI.goOn=2
+<info> AI dodge from 37 12
+<info> AI dodge to 35 14 AI.goOn=0
+<info> AI dodge count=4 AI.goOn=2
+<info> AI dodge from 32 23
+<info> AI dodge to 31 25 AI.goOn=0
+<info> AI dodge count=3 AI.goOn=1
+<info> AI dodge from 35 14
+<info> AI dodge to 37 16 AI.goOn=0
+<info> AI dodge count=4 AI.goOn=2
+<info> AI dodge from 31 25
+<info> AI dodge to 33 27 AI.goOn=0
+<info> AI dodge count=4 AI.goOn=2
+<info> AI dodge from 37 16
+<info> AI dodge to 34 19 AI.goOn=0
+<info> AI dodge count=6 AI.goOn=2
+<info> AI dodge from 33 27
+<info> AI dodge to 31 30 AI.goOn=0
+<info> AI dodge count=5 AI.goOn=2
+<info> AI dodge from 34 19
+<info> AI dodge to 33 22 AI.goOn=0
+<info> AI dodge count=4 AI.goOn=2
+<info> AI dodge from 33 22
+<info> AI dodge to 34 23 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 31 30
+<info> AI dodge to 29 33 AI.goOn=0
+<info> AI dodge count=5 AI.goOn=2
+<info> AI dodge from 29 33
+<info> AI dodge to 28 35 AI.goOn=0
+<info> AI dodge count=3 AI.goOn=1
+<info> AI dodge from 34 23
+<info> AI dodge to 31 27 AI.goOn=0
+<info> AI dodge count=7 AI.goOn=2
+<info> AI dodge from 28 35
+<info> AI dodge to 29 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 36
+<info> AI dodge to 28 37 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 28 37
+<info> AI dodge to 25 35 AI.goOn=0
+<info> AI dodge count=5 AI.goOn=2
+<info> AI dodge from 31 27
+<info> AI dodge to 33 29 AI.goOn=0
+<info> AI dodge count=4 AI.goOn=2
+<info> AI dodge from 25 35
+<info> AI dodge to 24 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 33 29
+<info> AI dodge to 35 31 AI.goOn=0
+<info> AI dodge count=4 AI.goOn=2
+<info> AI dodge from 24 36
+<info> AI dodge to 25 35 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 35
+<info> AI dodge to 24 34 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 31
+<info> AI dodge to 37 30 AI.goOn=0
+<info> AI dodge count=3 AI.goOn=1
+<info> AI dodge from 37 30
+<info> AI dodge to 28 26 AI.goOn=0
+<info> AI dodge count=15 AI.goOn=4
+<info> AI dodge from 24 34
+<info> AI dodge to 23 36 AI.goOn=0
+<info> AI dodge count=3 AI.goOn=1
+<info> AI dodge from 23 36
+<info> AI dodge to 22 37 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 22 37
+<info> AI dodge to 21 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 21 36
+<info> AI dodge to 20 35 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 28 26
+<info> AI dodge to 27 27 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 27 27
+<info> AI dodge to 26 28 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 28
+<info> AI dodge to 25 27 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 20 35
+<info> AI dodge to 18 34 AI.goOn=0
+<info> AI dodge count=3 AI.goOn=1
+<info> AI dodge from 18 34
+<info> AI dodge to 17 35 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 27
+<info> AI dodge to 24 26 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 24 26
+<info> AI dodge to 25 27 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 17 35
+<info> AI dodge to 16 34 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 27
+<info> AI dodge to 24 26 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 16 34
+<info> AI dodge to 17 33 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 24 26
+<info> AI dodge to 23 27 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 23 27
+<info> AI dodge to 24 28 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 17 33
+<info> AI dodge to 16 34 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 16 34
+<info> AI dodge to 15 35 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 24 28
+<info> AI dodge to 23 29 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 15 35
+<info> AI dodge to 14 34 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 14 34
+<info> AI dodge to 13 35 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 23 29
+<info> AI dodge to 22 28 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 13 35
+<info> AI dodge to 12 34 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 22 28
+<info> AI dodge to 21 29 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 21 29
+<info> AI dodge to 20 30 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 20 30
+<info> AI dodge to 21 31 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 21 31
+<info> AI dodge to 20 30 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 12 34
+<info> AI dodge to 11 33 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 20 30
+<info> AI dodge to 19 31 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 11 33
+<info> AI dodge to 10 32 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 10 32
+<info> AI dodge to 9 33 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 19 31
+<info> AI dodge to 18 30 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 18 30
+<info> AI dodge to 19 29 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 19 29
+<info> AI dodge to 18 30 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 18 30
+<info> AI dodge to 19 29 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 19 29
+<info> AI dodge to 17 24 AI.goOn=0
+<info> AI dodge count=9 AI.goOn=3
+<info> AI dodge from 15 29
+<info> AI dodge to 14 28 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 15 28
+<info> AI dodge to 12 27 AI.goOn=0
+<info> AI dodge count=6 AI.goOn=2
+<info> AI dodge from 17 24
+<info> AI dodge to 18 23 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 18 23
+<info> AI dodge to 19 22 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 19 22
+<info> AI dodge to 18 23 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 12 27
+<info> AI dodge to 11 28 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 18 23
+<info> AI dodge to 17 22 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 11 28
+<info> AI dodge to 12 27 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 17 22
+<info> AI dodge to 16 21 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 12 27
+<info> AI dodge to 11 28 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 16 21
+<info> AI dodge to 15 22 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 11 28
+<info> AI dodge to 10 29 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 10 29
+<info> AI dodge to 9 28 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 9 28
+<info> AI dodge to 8 29 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 8 29
+<info> AI dodge to 7 30 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 15 22
+<info> AI dodge to 16 21 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 16 21
+<info> AI dodge to 15 22 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 15 22
+<info> AI dodge to 14 23 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 12 24
+<info> AI dodge to 9 26 AI.goOn=0
+<info> AI dodge count=5 AI.goOn=2
+<info> AI dodge from 14 23
+<info> AI dodge to 11 19 AI.goOn=0
+<info> AI dodge count=7 AI.goOn=2
+<info> AI dodge from 11 19
+<info> AI dodge to 10 18 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 9 25
+<info> AI dodge to 10 26 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 10 18
+<info> AI dodge to 11 17 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 10 26
+<info> AI dodge to 9 27 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 9 27
+<info> AI dodge to 10 26 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 10 26
+<info> AI dodge to 9 27 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 9 27
+<info> AI dodge to 10 28 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 10 28
+<info> AI dodge to 9 29 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 9 29
+<info> AI dodge to 8 30 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 8 30
+<info> AI dodge to 7 29 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 7 29
+<info> AI dodge to 10 30 AI.goOn=0
+<info> AI dodge count=4 AI.goOn=2
+<info> AI dodge from 10 30
+<info> AI dodge to 13 27 AI.goOn=0
+<info> AI dodge count=6 AI.goOn=2
+<info> AI dodge from 13 27
+<info> AI dodge to 15 24 AI.goOn=0
+<info> AI dodge count=5 AI.goOn=2
+<info> AI dodge from 15 24
+<info> AI dodge to 20 22 AI.goOn=0
+<info> AI dodge count=9 AI.goOn=3
+<info> AI dodge from 13 24
+<info> AI dodge to 15 25 AI.goOn=0
+<info> AI dodge count=3 AI.goOn=1
+<info> AI dodge from 16 25
+<info> AI dodge to 15 24 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 16 24
+<info> AI dodge to 18 28 AI.goOn=0
+<info> AI dodge count=6 AI.goOn=2
+<info> AI dodge from 20 22
+<info> AI dodge to 25 23 AI.goOn=0
+<info> AI dodge count=6 AI.goOn=2
+<info> AI dodge from 18 28
+<info> AI dodge to 19 29 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 19 29
+<info> AI dodge to 20 30 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 20 30
+<info> AI dodge to 21 31 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 23
+<info> AI dodge to 28 22 AI.goOn=0
+<info> AI dodge count=4 AI.goOn=2
+<info> AI dodge from 21 31
+<info> AI dodge to 22 30 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 28 22
+<info> AI dodge to 29 23 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 22 30
+<info> AI dodge to 23 29 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 23
+<info> AI dodge to 30 22 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 30 22
+<info> AI dodge to 29 23 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 23 29
+<info> AI dodge to 24 30 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 23
+<info> AI dodge to 30 22 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 24 30
+<info> AI dodge to 25 29 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 30 22
+<info> AI dodge to 31 21 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 29
+<info> AI dodge to 26 28 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 31 21
+<info> AI dodge to 32 20 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 32 20
+<info> AI dodge to 33 19 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 33 19
+<info> AI dodge to 34 18 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 28
+<info> AI dodge to 27 29 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 27 29
+<info> AI dodge to 26 30 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 30
+<info> AI dodge to 27 31 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 27 31
+<info> AI dodge to 26 30 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 34 18
+<info> AI dodge to 35 17 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 30
+<info> AI dodge to 27 29 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 17
+<info> AI dodge to 34 18 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 27 29
+<info> AI dodge to 28 30 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 34 18
+<info> AI dodge to 35 19 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 28 30
+<info> AI dodge to 29 31 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 31
+<info> AI dodge to 28 32 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 19
+<info> AI dodge to 36 18 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 28 32
+<info> AI dodge to 29 31 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 18
+<info> AI dodge to 37 17 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 31
+<info> AI dodge to 30 30 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 37 17
+<info> AI dodge to 36 18 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 30 30
+<info> AI dodge to 29 31 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 18
+<info> AI dodge to 35 19 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 31
+<info> AI dodge to 28 30 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 28 30
+<info> AI dodge to 29 29 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 19
+<info> AI dodge to 36 20 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 20
+<info> AI dodge to 37 19 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 37 19
+<info> AI dodge to 36 18 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 29
+<info> AI dodge to 28 30 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 18
+<info> AI dodge to 35 19 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 19
+<info> AI dodge to 36 18 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 28 30
+<info> AI dodge to 29 29 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 29
+<info> AI dodge to 28 28 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 18
+<info> AI dodge to 37 17 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 28 28
+<info> AI dodge to 29 27 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 37 17
+<info> AI dodge to 36 16 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 16
+<info> AI dodge to 37 17 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 27
+<info> AI dodge to 30 28 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 37 17
+<info> AI dodge to 36 18 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 30 28
+<info> AI dodge to 29 29 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 18
+<info> AI dodge to 37 19 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 37 19
+<info> AI dodge to 36 18 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 18
+<info> AI dodge to 37 19 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 29
+<info> AI dodge to 30 30 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 37 19
+<info> AI dodge to 36 18 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 18
+<info> AI dodge to 37 17 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 37 17
+<info> AI dodge to 36 16 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 30 30
+<info> AI dodge to 29 29 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 29
+<info> AI dodge to 30 28 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 16
+<info> AI dodge to 35 15 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 30 28
+<info> AI dodge to 31 29 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 15
+<info> AI dodge to 36 14 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 31 29
+<info> AI dodge to 30 28 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 30 28
+<info> AI dodge to 29 27 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 14
+<info> AI dodge to 37 13 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 37 13
+<info> AI dodge to 36 14 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 16
+<info> AI dodge to 36 15 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 16
+<info> AI dodge to 35 17 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 19
+<info> AI dodge to 36 14 AI.goOn=0
+<info> AI dodge count=8 AI.goOn=3
+<info> AI dodge from 30 26
+<info> AI dodge to 35 31 AI.goOn=0
+<info> AI dodge count=10 AI.goOn=3
+<info> AI dodge from 36 16
+<info> AI dodge to 33 13 AI.goOn=0
+<info> AI dodge count=6 AI.goOn=2
+<info> AI dodge from 35 31
+<info> AI dodge to 36 35 AI.goOn=0
+<info> AI dodge count=7 AI.goOn=2
+<info> AI dodge from 36 35
+<info> AI dodge to 37 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 33 13
+<info> AI dodge to 31 11 AI.goOn=0
+<info> AI dodge count=4 AI.goOn=2
+<info> AI dodge from 31 11
+<info> AI dodge to 30 10 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 30 10
+<info> AI dodge to 29 9 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 37 36
+<info> AI dodge to 29 37 AI.goOn=0
+<info> AI dodge count=13 AI.goOn=4
+<info> AI dodge from 29 9
+<info> AI dodge to 28 8 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 37
+<info> AI dodge to 28 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 28 8
+<info> AI dodge to 29 7 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 28 36
+<info> AI dodge to 27 35 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 7
+<info> AI dodge to 30 6 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 27 35
+<info> AI dodge to 26 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 36
+<info> AI dodge to 25 35 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 35
+<info> AI dodge to 24 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 30 6
+<info> AI dodge to 29 7 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 7
+<info> AI dodge to 28 6 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 24 36
+<info> AI dodge to 23 37 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 28 6
+<info> AI dodge to 27 5 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 23 37
+<info> AI dodge to 22 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 27 5
+<info> AI dodge to 26 4 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 4
+<info> AI dodge to 25 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 22 36
+<info> AI dodge to 19 34 AI.goOn=0
+<info> AI dodge count=5 AI.goOn=2
+<info> AI dodge from 25 3
+<info> AI dodge to 24 2 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 19 34
+<info> AI dodge to 18 33 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 24 2
+<info> AI dodge to 22 3 AI.goOn=0
+<info> AI dodge count=3 AI.goOn=1
+<info> AI dodge from 18 33
+<info> AI dodge to 17 34 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 22 3
+<info> AI dodge to 21 2 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 17 34
+<info> AI dodge to 16 35 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 21 2
+<info> AI dodge to 20 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 16 35
+<info> AI dodge to 15 34 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 20 3
+<info> AI dodge to 19 4 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 15 34
+<info> AI dodge to 14 35 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 14 35
+<info> AI dodge to 15 34 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 19 4
+<info> AI dodge to 18 5 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 15 34
+<info> AI dodge to 14 35 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 18 5
+<info> AI dodge to 17 6 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 14 35
+<info> AI dodge to 13 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 13 36
+<info> AI dodge to 12 35 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 17 6
+<info> AI dodge to 16 5 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 12 35
+<info> AI dodge to 11 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 11 36
+<info> AI dodge to 6 33 AI.goOn=0
+<info> AI dodge count=8 AI.goOn=3
+<info> AI dodge from 16 5
+<info> AI dodge to 21 10 AI.goOn=0
+<info> AI dodge count=10 AI.goOn=3
+<info> AI dodge from 6 33
+<info> AI dodge to 5 34 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 5 34
+<info> AI dodge to 2 23 AI.goOn=0
+<info> AI dodge count=20 AI.goOn=6
+<info> AI dodge from 21 10
+<info> AI dodge to 22 11 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 22 11
+<info> AI dodge to 21 12 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 21 12
+<info> AI dodge to 22 11 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 2 23
+<info> AI dodge to 3 13 AI.goOn=0
+<info> AI dodge count=17 AI.goOn=5
+<info> AI dodge from 22 11
+<info> AI dodge to 26 17 AI.goOn=0
+<info> AI dodge count=10 AI.goOn=3
+<info> AI dodge from 26 17
+<info> AI dodge to 25 18 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 18
+<info> AI dodge to 24 19 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 3 13
+<info> AI dodge to 5 7 AI.goOn=0
+<info> AI dodge count=12 AI.goOn=4
+<info> AI dodge from 24 19
+<info> AI dodge to 25 18 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 18
+<info> AI dodge to 24 19 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 24 19
+<info> AI dodge to 25 20 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 5 7
+<info> AI dodge to 4 6 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 20
+<info> AI dodge to 26 19 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 19
+<info> AI dodge to 25 18 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 4 6
+<info> AI dodge to 3 5 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 18
+<info> AI dodge to 26 17 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 3 5
+<info> AI dodge to 4 4 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 17
+<info> AI dodge to 25 18 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 4 4
+<info> AI dodge to 23 3 AI.goOn=0
+<info> AI dodge count=32 AI.goOn=9
+<info> AI dodge from 25 18
+<info> AI dodge to 21 23 AI.goOn=0
+<info> AI dodge count=9 AI.goOn=3
+<info> AI dodge from 21 23
+<info> AI dodge to 20 24 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 20 24
+<info> AI dodge to 21 25 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 21 25
+<info> AI dodge to 20 26 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 20 26
+<info> AI dodge to 27 29 AI.goOn=0
+<info> AI dodge count=12 AI.goOn=4
+<info> AI dodge from 23 3
+<info> AI dodge to 28 8 AI.goOn=0
+<info> AI dodge count=10 AI.goOn=3
+<info> AI dodge from 28 8
+<info> AI dodge to 29 9 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 27 29
+<info> AI dodge to 28 30 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 9
+<info> AI dodge to 28 10 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 28 30
+<info> AI dodge to 29 31 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 28 10
+<info> AI dodge to 29 11 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 11
+<info> AI dodge to 28 10 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 31
+<info> AI dodge to 28 32 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 28 10
+<info> AI dodge to 29 9 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 28 32
+<info> AI dodge to 29 31 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 9
+<info> AI dodge to 30 10 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 31
+<info> AI dodge to 28 32 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 30 10
+<info> AI dodge to 29 9 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 9
+<info> AI dodge to 30 8 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 30 8
+<info> AI dodge to 29 7 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 7
+<info> AI dodge to 30 8 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 28 32
+<info> AI dodge to 29 33 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 30 8
+<info> AI dodge to 31 7 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 31 7
+<info> AI dodge to 32 6 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 33
+<info> AI dodge to 28 34 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 32 6
+<info> AI dodge to 33 5 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 28 34
+<info> AI dodge to 29 33 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 33
+<info> AI dodge to 28 34 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 28 34
+<info> AI dodge to 29 35 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 32 6
+<info> AI dodge to 31 5 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 35
+<info> AI dodge to 30 34 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 31 5
+<info> AI dodge to 32 4 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 30 34
+<info> AI dodge to 31 33 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 32 4
+<info> AI dodge to 33 5 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 31 33
+<info> AI dodge to 30 34 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 30 34
+<info> AI dodge to 31 35 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 31 35
+<info> AI dodge to 32 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 32 36
+<info> AI dodge to 31 35 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 33 5
+<info> AI dodge to 34 4 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 34 4
+<info> AI dodge to 33 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 31 35
+<info> AI dodge to 29 37 AI.goOn=0
+<info> AI dodge count=4 AI.goOn=2
+<info> AI dodge from 33 3
+<info> AI dodge to 37 11 AI.goOn=0
+<info> AI dodge count=14 AI.goOn=4
+<info> AI dodge from 29 37
+<info> AI dodge to 35 35 AI.goOn=0
+<info> AI dodge count=12 AI.goOn=4
+<info> AI dodge from 35 35
+<info> AI dodge to 37 37 AI.goOn=0
+<info> AI dodge count=4 AI.goOn=2
+<info> AI dodge from 37 11
+<info> AI dodge to 34 14 AI.goOn=0
+<info> AI dodge count=6 AI.goOn=2
+<info> AI dodge from 34 14
+<info> AI dodge to 35 15 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 15
+<info> AI dodge to 36 16 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 37 37
+<info> AI dodge to 28 36 AI.goOn=0
+<info> AI dodge count=18 AI.goOn=5
+<info> AI dodge from 36 16
+<info> AI dodge to 35 17 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 17
+<info> AI dodge to 34 18 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 34 18
+<info> AI dodge to 33 19 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 33 19
+<info> AI dodge to 34 20 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 34 20
+<info> AI dodge to 35 19 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 19
+<info> AI dodge to 36 20 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 20
+<info> AI dodge to 37 19 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 28 36
+<info> AI dodge to 16 35 AI.goOn=0
+<info> AI dodge count=17 AI.goOn=5
+<info> AI dodge from 37 19
+<info> AI dodge to 36 20 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 20
+<info> AI dodge to 37 21 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 37 21
+<info> AI dodge to 36 20 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 20
+<info> AI dodge to 35 21 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 21
+<info> AI dodge to 36 20 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 20
+<info> AI dodge to 35 21 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 21
+<info> AI dodge to 36 22 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 22
+<info> AI dodge to 35 21 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 21
+<info> AI dodge to 34 22 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 16 35
+<info> AI dodge to 15 34 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 34 22
+<info> AI dodge to 35 23 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 15 34
+<info> AI dodge to 14 33 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 14 33
+<info> AI dodge to 15 34 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 23
+<info> AI dodge to 36 24 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 15 34
+<info> AI dodge to 16 35 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 16 35
+<info> AI dodge to 15 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 30 30
+<info> AI dodge to 29 29 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 29
+<info> AI dodge to 30 30 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 30 30
+<info> AI dodge to 31 29 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 31 29
+<info> AI dodge to 32 28 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 15 36
+<info> AI dodge to 16 35 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 16 35
+<info> AI dodge to 15 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 32 28
+<info> AI dodge to 33 27 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 15 36
+<info> AI dodge to 14 35 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 33 27
+<info> AI dodge to 34 28 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 34 28
+<info> AI dodge to 35 27 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 14 35
+<info> AI dodge to 13 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 27
+<info> AI dodge to 34 28 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 13 36
+<info> AI dodge to 14 37 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 34 28
+<info> AI dodge to 35 27 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 27
+<info> AI dodge to 36 26 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 14 37
+<info> AI dodge to 13 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 26
+<info> AI dodge to 35 27 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 13 36
+<info> AI dodge to 12 35 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 27
+<info> AI dodge to 36 28 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 12 35
+<info> AI dodge to 11 34 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 11 34
+<info> AI dodge to 10 33 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 28
+<info> AI dodge to 37 29 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 10 33
+<info> AI dodge to 9 34 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 9 34
+<info> AI dodge to 8 33 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 37 29
+<info> AI dodge to 36 28 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 8 33
+<info> AI dodge to 7 32 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 28
+<info> AI dodge to 37 24 AI.goOn=0
+<info> AI dodge count=5 AI.goOn=2
+<info> AI dodge from 7 32
+<info> AI dodge to 5 30 AI.goOn=0
+<info> AI dodge count=4 AI.goOn=2
+<info> AI dodge from 37 24
+<info> AI dodge to 36 23 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 5 30
+<info> AI dodge to 3 32 AI.goOn=0
+<info> AI dodge count=4 AI.goOn=2
+<info> AI dodge from 36 23
+<info> AI dodge to 35 21 AI.goOn=0
+<info> AI dodge count=3 AI.goOn=1
+<info> AI dodge from 35 21
+<info> AI dodge to 34 18 AI.goOn=0
+<info> AI dodge count=4 AI.goOn=2
+<info> AI dodge from 3 32
+<info> AI dodge to 5 26 AI.goOn=0
+<info> AI dodge count=12 AI.goOn=4
+<info> AI dodge from 34 18
+<info> AI dodge to 35 17 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 17
+<info> AI dodge to 36 16 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 16
+<info> AI dodge to 37 15 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 37 15
+<info> AI dodge to 36 14 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 14
+<info> AI dodge to 37 13 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 5 26
+<info> AI dodge to 4 24 AI.goOn=0
+<info> AI dodge count=3 AI.goOn=1
+<info> AI dodge from 37 13
+<info> AI dodge to 36 12 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 4 24
+<info> AI dodge to 3 23 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 3 23
+<info> AI dodge to 2 24 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 2 24
+<info> AI dodge to 3 23 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 12
+<info> AI dodge to 35 11 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 3 23
+<info> AI dodge to 4 22 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 11
+<info> AI dodge to 34 10 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 34 10
+<info> AI dodge to 35 11 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 11
+<info> AI dodge to 34 10 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 4 22
+<info> AI dodge to 5 21 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 34 10
+<info> AI dodge to 33 11 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 5 21
+<info> AI dodge to 4 22 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 33 11
+<info> AI dodge to 34 10 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 4 22
+<info> AI dodge to 3 21 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 34 10
+<info> AI dodge to 35 9 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 9
+<info> AI dodge to 34 8 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 34 8
+<info> AI dodge to 35 7 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 7
+<info> AI dodge to 34 6 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 3 21
+<info> AI dodge to 4 20 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 31 9
+<info> AI dodge to 32 8 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 4 20
+<info> AI dodge to 5 19 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 5 19
+<info> AI dodge to 6 18 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 6 18
+<info> AI dodge to 5 17 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 31 9
+<info> AI dodge to 32 8 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 32 8
+<info> AI dodge to 33 7 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 5 17
+<info> AI dodge to 4 16 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 33 7
+<info> AI dodge to 32 8 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 32 8
+<info> AI dodge to 33 7 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 4 16
+<info> AI dodge to 3 17 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 33 7
+<info> AI dodge to 34 8 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 34 8
+<info> AI dodge to 35 7 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 7
+<info> AI dodge to 36 6 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 6
+<info> AI dodge to 37 7 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 37 7
+<info> AI dodge to 36 3 AI.goOn=0
+<info> AI dodge count=7 AI.goOn=2
+<info> AI dodge from 36 3
+<info> AI dodge to 37 2 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 37 2
+<info> AI dodge to 28 3 AI.goOn=0
+<info> AI dodge count=12 AI.goOn=4
+<info> AI dodge from 3 17
+<info> AI dodge to 9 18 AI.goOn=0
+<info> AI dodge count=11 AI.goOn=3
+<info> AI dodge from 9 18
+<info> AI dodge to 10 17 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 28 3
+<info> AI dodge to 27 2 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 10 17
+<info> AI dodge to 11 18 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 27 2
+<info> AI dodge to 25 3 AI.goOn=0
+<info> AI dodge count=3 AI.goOn=1
+<info> AI dodge from 11 18
+<info> AI dodge to 10 17 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 10 17
+<info> AI dodge to 11 16 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 3
+<info> AI dodge to 24 4 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 24 4
+<info> AI dodge to 23 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 11 16
+<info> AI dodge to 12 17 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 23 3
+<info> AI dodge to 24 4 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 24 4
+<info> AI dodge to 23 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 12 17
+<info> AI dodge to 13 16 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 23 3
+<info> AI dodge to 22 2 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 13 16
+<info> AI dodge to 12 15 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 22 2
+<info> AI dodge to 21 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 21 3
+<info> AI dodge to 20 4 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 12 15
+<info> AI dodge to 13 16 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 13 16
+<info> AI dodge to 14 17 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 14 17
+<info> AI dodge to 15 16 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 15 16
+<info> AI dodge to 16 15 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 20 4
+<info> AI dodge to 21 5 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 21 5
+<info> AI dodge to 20 6 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 20 6
+<info> AI dodge to 21 5 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 21 5
+<info> AI dodge to 20 6 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 20 6
+<info> AI dodge to 18 4 AI.goOn=0
+<info> AI dodge count=4 AI.goOn=2
+<info> AI dodge from 23 8
+<info> AI dodge to 26 10 AI.goOn=0
+<info> AI dodge count=5 AI.goOn=2
+<info> AI dodge from 25 2
+<info> AI dodge to 29 3 AI.goOn=0
+<info> AI dodge count=7 AI.goOn=2
+<info> AI dodge from 29 2
+<info> AI dodge to 32 4 AI.goOn=0
+<info> AI dodge count=5 AI.goOn=2
+<info> AI dodge from 32 3
+<info> AI dodge to 34 4 AI.goOn=0
+<info> AI dodge count=3 AI.goOn=1
+<info> AI dodge from 34 3
+<info> AI dodge to 35 4 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 33 2
+<info> AI dodge to 34 8 AI.goOn=0
+<info> AI dodge count=9 AI.goOn=3
+<info> AI dodge from 35 2
+<info> AI dodge to 27 4 AI.goOn=0
+<info> AI dodge count=10 AI.goOn=3
+<info> AI dodge from 27 4
+<info> AI dodge to 26 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 34 8
+<info> AI dodge to 35 9 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 9
+<info> AI dodge to 34 10 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 34 10
+<info> AI dodge to 35 11 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 32 4
+<info> AI dodge to 33 5 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 11
+<info> AI dodge to 36 12 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 34 5
+<info> AI dodge to 33 3 AI.goOn=0
+<info> AI dodge count=3 AI.goOn=1
+<info> AI dodge from 36 12
+<info> AI dodge to 37 13 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 37 13
+<info> AI dodge to 36 16 AI.goOn=0
+<info> AI dodge count=4 AI.goOn=2
+<info> AI dodge from 37 3
+<info> AI dodge to 34 11 AI.goOn=0
+<info> AI dodge count=15 AI.goOn=4
+<info> AI dodge from 36 16
+<info> AI dodge to 34 23 AI.goOn=0
+<info> AI dodge count=13 AI.goOn=4
+<info> AI dodge from 37 11
+<info> AI dodge to 34 15 AI.goOn=0
+<info> AI dodge count=7 AI.goOn=2
+<info> AI dodge from 35 15
+<info> AI dodge to 30 17 AI.goOn=0
+<info> AI dodge count=9 AI.goOn=3
+<info> AI dodge from 30 17
+<info> AI dodge to 28 18 AI.goOn=0
+<info> AI dodge count=3 AI.goOn=1
+<info> AI dodge from 28 18
+<info> AI dodge to 27 19 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 27 19
+<info> AI dodge to 26 18 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 34 23
+<info> AI dodge to 28 27 AI.goOn=0
+<info> AI dodge count=12 AI.goOn=4
+<info> AI dodge from 26 18
+<info> AI dodge to 25 19 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 19
+<info> AI dodge to 22 18 AI.goOn=0
+<info> AI dodge count=6 AI.goOn=2
+<info> AI dodge from 22 18
+<info> AI dodge to 23 17 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 23 17
+<info> AI dodge to 22 16 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 22 16
+<info> AI dodge to 21 15 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 28 27
+<info> AI dodge to 33 30 AI.goOn=0
+<info> AI dodge count=8 AI.goOn=3
+<info> AI dodge from 21 15
+<info> AI dodge to 22 14 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 22 14
+<info> AI dodge to 21 13 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 21 13
+<info> AI dodge to 22 12 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 22 12
+<info> AI dodge to 23 11 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 23 11
+<info> AI dodge to 22 10 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 22 10
+<info> AI dodge to 23 8 AI.goOn=0
+<info> AI dodge count=3 AI.goOn=1
+<info> AI dodge from 23 8
+<info> AI dodge to 22 7 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 33 30
+<info> AI dodge to 35 35 AI.goOn=0
+<info> AI dodge count=7 AI.goOn=2
+<info> AI dodge from 22 7
+<info> AI dodge to 20 3 AI.goOn=0
+<info> AI dodge count=6 AI.goOn=2
+<info> AI dodge from 20 3
+<info> AI dodge to 21 2 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 21 2
+<info> AI dodge to 16 4 AI.goOn=0
+<info> AI dodge count=9 AI.goOn=3
+<info> AI dodge from 35 35
+<info> AI dodge to 28 36 AI.goOn=0
+<info> AI dodge count=12 AI.goOn=4
+<info> AI dodge from 16 4
+<info> AI dodge to 15 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 15 3
+<info> AI dodge to 14 2 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 14 2
+<info> AI dodge to 15 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 28 36
+<info> AI dodge to 27 37 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 15 3
+<info> AI dodge to 14 4 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 14 4
+<info> AI dodge to 13 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 27 37
+<info> AI dodge to 26 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 36
+<info> AI dodge to 25 37 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 13 3
+<info> AI dodge to 12 4 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 37
+<info> AI dodge to 24 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 12 4
+<info> AI dodge to 11 5 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 24 36
+<info> AI dodge to 23 35 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 11 5
+<info> AI dodge to 10 6 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 23 35
+<info> AI dodge to 22 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 22 36
+<info> AI dodge to 21 35 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 10 6
+<info> AI dodge to 11 5 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 21 35
+<info> AI dodge to 20 34 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 11 5
+<info> AI dodge to 10 4 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 10 4
+<info> AI dodge to 11 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 11 3
+<info> AI dodge to 10 2 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 10 2
+<info> AI dodge to 11 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 11 3
+<info> AI dodge to 10 2 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 10 2
+<info> AI dodge to 11 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 11 3
+<info> AI dodge to 10 2 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 10 2
+<info> AI dodge to 9 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 9 3
+<info> AI dodge to 8 2 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 8 2
+<info> AI dodge to 7 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 11 17
+<info> AI dodge to 10 22 AI.goOn=0
+<info> AI dodge count=8 AI.goOn=3
+<info> AI dodge from 10 22
+<info> AI dodge to 7 25 AI.goOn=0
+<info> AI dodge count=6 AI.goOn=2
+<info> AI dodge from 18 16
+<info> AI dodge to 17 20 AI.goOn=0
+<info> AI dodge count=7 AI.goOn=2
+<info> AI dodge from 7 25
+<info> AI dodge to 9 29 AI.goOn=0
+<info> AI dodge count=8 AI.goOn=3
+<info> AI dodge from 17 20
+<info> AI dodge to 18 23 AI.goOn=0
+<info> AI dodge count=6 AI.goOn=2
+<info> AI dodge from 9 29
+<info> AI dodge to 11 32 AI.goOn=0
+<info> AI dodge count=5 AI.goOn=2
+<info> AI dodge from 18 23
+<info> AI dodge to 16 25 AI.goOn=0
+<info> AI dodge count=4 AI.goOn=2
+<info> AI dodge from 16 25
+<info> AI dodge to 15 27 AI.goOn=0
+<info> AI dodge count=3 AI.goOn=1
+<info> AI dodge from 15 27
+<info> AI dodge to 17 28 AI.goOn=0
+<info> AI dodge count=3 AI.goOn=1
+<info> AI dodge from 17 28
+<info> AI dodge to 18 29 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 11 32
+<info> AI dodge to 15 36 AI.goOn=0
+<info> AI dodge count=8 AI.goOn=3
+<info> AI dodge from 18 29
+<info> AI dodge to 19 30 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 19 30
+<info> AI dodge to 20 29 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 20 29
+<info> AI dodge to 19 30 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 19 30
+<info> AI dodge to 20 31 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 15 36
+<info> AI dodge to 17 37 AI.goOn=0
+<info> AI dodge count=3 AI.goOn=1
+<info> AI dodge from 20 31
+<info> AI dodge to 22 32 AI.goOn=0
+<info> AI dodge count=3 AI.goOn=1
+<info> AI dodge from 17 37
+<info> AI dodge to 14 26 AI.goOn=0
+<info> AI dodge count=18 AI.goOn=5
+<info> AI dodge from 22 32
+<info> AI dodge to 21 33 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 21 33
+<info> AI dodge to 20 34 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 14 26
+<info> AI dodge to 15 25 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 20 34
+<info> AI dodge to 21 33 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 21 33
+<info> AI dodge to 22 34 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 22 34
+<info> AI dodge to 21 35 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 15 25
+<info> AI dodge to 14 24 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 14 24
+<info> AI dodge to 13 23 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 21 35
+<info> AI dodge to 25 36 AI.goOn=0
+<info> AI dodge count=5 AI.goOn=2
+<info> AI dodge from 25 36
+<info> AI dodge to 27 35 AI.goOn=0
+<info> AI dodge count=3 AI.goOn=1
+<info> AI dodge from 13 23
+<info> AI dodge to 14 19 AI.goOn=0
+<info> AI dodge count=7 AI.goOn=2
+<info> AI dodge from 27 35
+<info> AI dodge to 29 33 AI.goOn=0
+<info> AI dodge count=4 AI.goOn=2
+<info> AI dodge from 29 33
+<info> AI dodge to 34 36 AI.goOn=0
+<info> AI dodge count=10 AI.goOn=3
+<info> AI dodge from 34 36
+<info> AI dodge to 36 35 AI.goOn=0
+<info> AI dodge count=3 AI.goOn=1
+<info> AI dodge from 36 35
+<info> AI dodge to 37 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 37 36
+<info> AI dodge to 36 28 AI.goOn=0
+<info> AI dodge count=13 AI.goOn=4
+<info> AI dodge from 36 28
+<info> AI dodge to 35 27 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 27
+<info> AI dodge to 36 26 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 26
+<info> AI dodge to 35 25 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 25
+<info> AI dodge to 34 24 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 34 24
+<info> AI dodge to 35 23 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 23
+<info> AI dodge to 36 22 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 22
+<info> AI dodge to 35 21 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 21
+<info> AI dodge to 34 20 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 34 20
+<info> AI dodge to 35 19 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 19
+<info> AI dodge to 34 20 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 34 20
+<info> AI dodge to 35 21 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 21
+<info> AI dodge to 36 20 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 20
+<info> AI dodge to 37 19 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 37 19
+<info> AI dodge to 36 18 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 18
+<info> AI dodge to 37 17 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 37 17
+<info> AI dodge to 36 16 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 17
+<info> AI dodge to 28 16 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 20 19
+<info> AI dodge to 19 18 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 27 16
+<info> AI dodge to 28 15 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 21 16
+<info> AI dodge to 20 15 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 21 14
+<info> AI dodge to 22 15 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 28 15
+<info> AI dodge to 30 14 AI.goOn=0
+<info> AI dodge count=3 AI.goOn=1
+<info> AI dodge from 24 13
+<info> AI dodge to 21 10 AI.goOn=0
+<info> AI dodge count=6 AI.goOn=2
+<info> AI dodge from 30 14
+<info> AI dodge to 31 13 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 31 13
+<info> AI dodge to 32 12 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 32 12
+<info> AI dodge to 31 11 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 24 7
+<info> AI dodge to 25 6 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 5
+<info> AI dodge to 25 6 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 31 11
+<info> AI dodge to 32 12 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 6
+<info> AI dodge to 26 5 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 32 12
+<info> AI dodge to 33 13 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 33 13
+<info> AI dodge to 34 12 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 5
+<info> AI dodge to 27 4 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 27 4
+<info> AI dodge to 26 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 3
+<info> AI dodge to 27 2 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 27 2
+<info> AI dodge to 28 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 28 3
+<info> AI dodge to 29 2 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 34 12
+<info> AI dodge to 36 11 AI.goOn=0
+<info> AI dodge count=3 AI.goOn=1
+<info> AI dodge from 29 2
+<info> AI dodge to 31 4 AI.goOn=0
+<info> AI dodge count=4 AI.goOn=2
+<info> AI dodge from 36 11
+<info> AI dodge to 37 10 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 37 10
+<info> AI dodge to 35 19 AI.goOn=0
+<info> AI dodge count=13 AI.goOn=4
+<info> AI dodge from 31 4
+<info> AI dodge to 32 5 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 32 5
+<info> AI dodge to 33 4 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 19
+<info> AI dodge to 36 20 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 20
+<info> AI dodge to 35 21 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 33 4
+<info> AI dodge to 34 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 21
+<info> AI dodge to 36 22 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 34 3
+<info> AI dodge to 35 2 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 2
+<info> AI dodge to 28 11 AI.goOn=0
+<info> AI dodge count=16 AI.goOn=5
+<info> AI dodge from 36 22
+<info> AI dodge to 37 24 AI.goOn=0
+<info> AI dodge count=3 AI.goOn=1
+<info> AI dodge from 37 24
+<info> AI dodge to 36 25 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 25
+<info> AI dodge to 35 26 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 26
+<info> AI dodge to 34 27 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 34 27
+<info> AI dodge to 35 28 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 28
+<info> AI dodge to 33 30 AI.goOn=0
+<info> AI dodge count=4 AI.goOn=2
+<info> AI dodge from 28 11
+<info> AI dodge to 23 10 AI.goOn=0
+<info> AI dodge count=8 AI.goOn=3
+<info> AI dodge from 33 30
+<info> AI dodge to 34 32 AI.goOn=0
+<info> AI dodge count=3 AI.goOn=1
+<info> AI dodge from 34 32
+<info> AI dodge to 32 35 AI.goOn=0
+<info> AI dodge count=5 AI.goOn=2
+<info> AI dodge from 23 10
+<info> AI dodge to 20 12 AI.goOn=0
+<info> AI dodge count=5 AI.goOn=2
+<info> AI dodge from 32 35
+<info> AI dodge to 34 37 AI.goOn=0
+<info> AI dodge count=4 AI.goOn=2
+<info> AI dodge from 20 12
+<info> AI dodge to 19 11 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 19 11
+<info> AI dodge to 16 12 AI.goOn=0
+<info> AI dodge count=6 AI.goOn=2
+<info> AI dodge from 34 37
+<info> AI dodge to 28 34 AI.goOn=0
+<info> AI dodge count=9 AI.goOn=3
+<info> AI dodge from 28 34
+<info> AI dodge to 27 35 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 16 12
+<info> AI dodge to 14 13 AI.goOn=0
+<info> AI dodge count=3 AI.goOn=1
+<info> AI dodge from 14 13
+<info> AI dodge to 13 14 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 27 35
+<info> AI dodge to 26 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 36
+<info> AI dodge to 25 37 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 13 14
+<info> AI dodge to 12 13 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 37
+<info> AI dodge to 24 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 24 36
+<info> AI dodge to 23 35 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 23 35
+<info> AI dodge to 22 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 12 13
+<info> AI dodge to 11 12 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 22 36
+<info> AI dodge to 21 37 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 11 12
+<info> AI dodge to 10 11 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 10 11
+<info> AI dodge to 11 12 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 11 12
+<info> AI dodge to 10 13 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 10 13
+<info> AI dodge to 9 14 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 21 37
+<info> AI dodge to 22 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 9 14
+<info> AI dodge to 10 15 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 22 36
+<info> AI dodge to 21 37 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 10 15
+<info> AI dodge to 9 16 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 9 16
+<info> AI dodge to 8 15 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 21 37
+<info> AI dodge to 20 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 8 15
+<info> AI dodge to 9 16 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 20 36
+<info> AI dodge to 19 35 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 9 16
+<info> AI dodge to 8 15 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 8 15
+<info> AI dodge to 9 16 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 19 35
+<info> AI dodge to 18 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 18 36
+<info> AI dodge to 12 37 AI.goOn=0
+<info> AI dodge count=9 AI.goOn=3
+<info> AI dodge from 9 16
+<info> AI dodge to 8 15 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 8 15
+<info> AI dodge to 4 20 AI.goOn=0
+<info> AI dodge count=9 AI.goOn=3
+<info> AI dodge from 12 37
+<info> AI dodge to 11 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 4 20
+<info> AI dodge to 3 21 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 3 21
+<info> AI dodge to 4 22 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 4 22
+<info> AI dodge to 2 32 AI.goOn=0
+<info> AI dodge count=16 AI.goOn=5
+<info> AI dodge from 9 34
+<info> AI dodge to 15 29 AI.goOn=0
+<info> AI dodge count=11 AI.goOn=3
+<info> AI dodge from 2 32
+<info> AI dodge to 3 33 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 15 29
+<info> AI dodge to 16 28 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 3 33
+<info> AI dodge to 2 32 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 16 28
+<info> AI dodge to 17 29 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 17 29
+<info> AI dodge to 32 30 AI.goOn=0
+<info> AI dodge count=26 AI.goOn=7
+<info> AI dodge from 2 32
+<info> AI dodge to 19 18 AI.goOn=0
+<info> AI dodge count=31 AI.goOn=8
+<info> AI dodge from 19 18
+<info> AI dodge to 24 13 AI.goOn=0
+<info> AI dodge count=10 AI.goOn=3
+<info> AI dodge from 32 30
+<info> AI dodge to 33 16 AI.goOn=0
+<info> AI dodge count=25 AI.goOn=7
+<info> AI dodge from 24 13
+<info> AI dodge to 25 12 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 12
+<info> AI dodge to 20 7 AI.goOn=0
+<info> AI dodge count=10 AI.goOn=3
+<info> AI dodge from 20 7
+<info> AI dodge to 24 3 AI.goOn=0
+<info> AI dodge count=8 AI.goOn=3
+<info> AI dodge from 33 16
+<info> AI dodge to 37 9 AI.goOn=0
+<info> AI dodge count=13 AI.goOn=4
+<info> AI dodge from 24 3
+<info> AI dodge to 25 4 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 4
+<info> AI dodge to 26 5 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 5
+<info> AI dodge to 27 4 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 37 9
+<info> AI dodge to 36 8 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 8
+<info> AI dodge to 37 7 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 37 7
+<info> AI dodge to 36 6 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 27 4
+<info> AI dodge to 26 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 6
+<info> AI dodge to 35 5 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 5
+<info> AI dodge to 36 4 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 4
+<info> AI dodge to 35 5 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 3
+<info> AI dodge to 27 2 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 5
+<info> AI dodge to 36 4 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 27 2
+<info> AI dodge to 34 31 AI.goOn=0
+<info> AI dodge count=50 AI.goOn=13
+<info> AI dodge from 36 4
+<info> AI dodge to 37 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 37 3
+<info> AI dodge to 36 2 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 2
+<info> AI dodge to 37 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 37 3
+<info> AI dodge to 32 2 AI.goOn=0
+<info> AI dodge count=10 AI.goOn=3
+<info> AI dodge from 32 2
+<info> AI dodge to 22 5 AI.goOn=0
+<info> AI dodge count=17 AI.goOn=5
+<info> AI dodge from 22 5
+<info> AI dodge to 21 4 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 21 4
+<info> AI dodge to 20 5 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 34 31
+<info> AI dodge to 35 32 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 20 5
+<info> AI dodge to 19 4 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 32
+<info> AI dodge to 34 31 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 34 31
+<info> AI dodge to 35 32 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 32
+<info> AI dodge to 36 33 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 33
+<info> AI dodge to 37 32 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 37 32
+<info> AI dodge to 36 33 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 21 6
+<info> AI dodge to 20 5 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 33
+<info> AI dodge to 35 34 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 34
+<info> AI dodge to 34 35 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 20 5
+<info> AI dodge to 19 4 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 34 35
+<info> AI dodge to 35 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 36
+<info> AI dodge to 34 37 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 22 7
+<info> AI dodge to 21 8 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 22 9
+<info> AI dodge to 21 8 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 34 37
+<info> AI dodge to 35 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 22 9
+<info> AI dodge to 21 8 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 36
+<info> AI dodge to 34 37 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 34 37
+<info> AI dodge to 33 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 21 8
+<info> AI dodge to 20 7 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 33 36
+<info> AI dodge to 32 37 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 20 7
+<info> AI dodge to 19 8 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 19 8
+<info> AI dodge to 18 7 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 18 7
+<info> AI dodge to 17 6 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 32 37
+<info> AI dodge to 29 36 AI.goOn=0
+<info> AI dodge count=4 AI.goOn=2
+<info> AI dodge from 17 6
+<info> AI dodge to 16 5 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 36
+<info> AI dodge to 30 37 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 24 31
+<info> AI dodge to 25 30 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 24 29
+<info> AI dodge to 23 28 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 27 16
+<info> AI dodge to 21 8 AI.goOn=0
+<info> AI dodge count=16 AI.goOn=5
+<info> AI dodge from 22 27
+<info> AI dodge to 23 28 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 22 26
+<info> AI dodge to 21 27 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 21 26
+<info> AI dodge to 20 27 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 20 26
+<info> AI dodge to 19 27 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 19 26
+<info> AI dodge to 18 27 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 21 14
+<info> AI dodge to 22 8 AI.goOn=0
+<info> AI dodge count=11 AI.goOn=3
+<info> AI dodge from 22 8
+<info> AI dodge to 21 7 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 18 25
+<info> AI dodge to 17 24 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 21 7
+<info> AI dodge to 20 8 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 17 24
+<info> AI dodge to 16 23 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 20 8
+<info> AI dodge to 19 7 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 16 23
+<info> AI dodge to 15 24 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 15 24
+<info> AI dodge to 14 23 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 19 7
+<info> AI dodge to 20 6 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 14 23
+<info> AI dodge to 13 24 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 20 6
+<info> AI dodge to 19 5 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 13 24
+<info> AI dodge to 12 23 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 12 23
+<info> AI dodge to 11 24 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 11 24
+<info> AI dodge to 10 23 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 10 23
+<info> AI dodge to 9 24 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 9 24
+<info> AI dodge to 10 23 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 10 23
+<info> AI dodge to 11 24 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 11 24
+<info> AI dodge to 10 25 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 10 25
+<info> AI dodge to 9 26 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 9 26
+<info> AI dodge to 8 25 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 8 25
+<info> AI dodge to 7 24 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 7 24
+<info> AI dodge to 6 23 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 6 23
+<info> AI dodge to 5 22 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 5 22
+<info> AI dodge to 4 21 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 17 7
+<info> AI dodge to 18 6 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 4 21
+<info> AI dodge to 3 20 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 18 6
+<info> AI dodge to 17 5 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 17 5
+<info> AI dodge to 16 6 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 4 19
+<info> AI dodge to 3 20 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 16 6
+<info> AI dodge to 15 5 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 3 20
+<info> AI dodge to 2 21 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 15 5
+<info> AI dodge to 16 4 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 16 4
+<info> AI dodge to 17 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 17 3
+<info> AI dodge to 20 5 AI.goOn=0
+<info> AI dodge count=5 AI.goOn=2
+<info> AI dodge from 2 21
+<info> AI dodge to 3 24 AI.goOn=0
+<info> AI dodge count=4 AI.goOn=2
+<info> AI dodge from 20 5
+<info> AI dodge to 23 3 AI.goOn=0
+<info> AI dodge count=5 AI.goOn=2
+<info> AI dodge from 3 24
+<info> AI dodge to 4 25 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 4 25
+<info> AI dodge to 3 27 AI.goOn=0
+<info> AI dodge count=3 AI.goOn=1
+<info> AI dodge from 3 27
+<info> AI dodge to 4 28 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 4 28
+<info> AI dodge to 7 31 AI.goOn=0
+<info> AI dodge count=6 AI.goOn=2
+<info> AI dodge from 23 3
+<info> AI dodge to 28 8 AI.goOn=0
+<info> AI dodge count=10 AI.goOn=3
+<info> AI dodge from 7 31
+<info> AI dodge to 6 32 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 6 32
+<info> AI dodge to 5 33 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 5 33
+<info> AI dodge to 4 34 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 4 34
+<info> AI dodge to 5 35 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 28 8
+<info> AI dodge to 29 10 AI.goOn=0
+<info> AI dodge count=3 AI.goOn=1
+<info> AI dodge from 5 35
+<info> AI dodge to 6 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 10
+<info> AI dodge to 30 11 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 30 11
+<info> AI dodge to 31 12 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 6 36
+<info> AI dodge to 7 37 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 7 37
+<info> AI dodge to 10 36 AI.goOn=0
+<info> AI dodge count=6 AI.goOn=2
+<info> AI dodge from 31 12
+<info> AI dodge to 32 13 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 32 13
+<info> AI dodge to 31 12 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 31 12
+<info> AI dodge to 32 13 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 10 36
+<info> AI dodge to 11 35 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 32 13
+<info> AI dodge to 33 14 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 11 35
+<info> AI dodge to 12 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 12 36
+<info> AI dodge to 13 35 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 13 35
+<info> AI dodge to 14 34 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 33 14
+<info> AI dodge to 32 15 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 32 15
+<info> AI dodge to 31 14 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 14 34
+<info> AI dodge to 15 35 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 31 14
+<info> AI dodge to 32 15 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 15 35
+<info> AI dodge to 14 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 32 15
+<info> AI dodge to 33 16 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 14 36
+<info> AI dodge to 15 37 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 15 37
+<info> AI dodge to 14 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 33 16
+<info> AI dodge to 32 15 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 32 15
+<info> AI dodge to 31 14 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 14 36
+<info> AI dodge to 15 37 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 31 14
+<info> AI dodge to 32 15 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 15 37
+<info> AI dodge to 14 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 14 36
+<info> AI dodge to 15 37 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 32 15
+<info> AI dodge to 31 16 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 31 16
+<info> AI dodge to 32 15 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 32 15
+<info> AI dodge to 31 16 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 15 37
+<info> AI dodge to 14 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 31 16
+<info> AI dodge to 32 15 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 14 36
+<info> AI dodge to 15 35 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 32 15
+<info> AI dodge to 31 16 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 15 35
+<info> AI dodge to 16 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 31 16
+<info> AI dodge to 30 17 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 16 36
+<info> AI dodge to 15 37 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 30 17
+<info> AI dodge to 31 18 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 15 37
+<info> AI dodge to 14 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 14 36
+<info> AI dodge to 15 37 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 31 18
+<info> AI dodge to 30 17 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 15 37
+<info> AI dodge to 14 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 30 17
+<info> AI dodge to 29 16 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 14 36
+<info> AI dodge to 15 35 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 15 35
+<info> AI dodge to 14 36 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 16
+<info> AI dodge to 30 17 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 30 17
+<info> AI dodge to 31 18 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 14 36
+<info> AI dodge to 15 37 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 15 37
+<info> AI dodge to 11 28 AI.goOn=0
+<info> AI dodge count=15 AI.goOn=4
+<info> AI dodge from 31 18
+<info> AI dodge to 33 19 AI.goOn=0
+<info> AI dodge count=3 AI.goOn=1
+<info> AI dodge from 33 19
+<info> AI dodge to 34 18 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 34 18
+<info> AI dodge to 35 17 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 17
+<info> AI dodge to 36 16 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 36 16
+<info> AI dodge to 37 17 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 37 17
+<info> AI dodge to 35 13 AI.goOn=0
+<info> AI dodge count=8 AI.goOn=3
+<info> AI dodge from 11 28
+<info> AI dodge to 7 31 AI.goOn=0
+<info> AI dodge count=7 AI.goOn=2
+<info> AI dodge from 7 31
+<info> AI dodge to 6 30 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 13
+<info> AI dodge to 37 9 AI.goOn=0
+<info> AI dodge count=6 AI.goOn=2
+<info> AI dodge from 6 30
+<info> AI dodge to 5 29 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 37 9
+<info> AI dodge to 35 7 AI.goOn=0
+<info> AI dodge count=4 AI.goOn=2
+<info> AI dodge from 5 29
+<info> AI dodge to 3 28 AI.goOn=0
+<info> AI dodge count=3 AI.goOn=1
+<info> AI dodge from 3 28
+<info> AI dodge to 2 27 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 35 7
+<info> AI dodge to 34 6 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 34 6
+<info> AI dodge to 33 5 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 33 5
+<info> AI dodge to 32 4 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 2 27
+<info> AI dodge to 3 23 AI.goOn=0
+<info> AI dodge count=7 AI.goOn=2
+<info> AI dodge from 32 4
+<info> AI dodge to 31 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 31 3
+<info> AI dodge to 30 4 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 30 4
+<info> AI dodge to 29 5 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 5
+<info> AI dodge to 28 4 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 3 23
+<info> AI dodge to 2 22 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 2 22
+<info> AI dodge to 3 21 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 28 4
+<info> AI dodge to 27 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 3 21
+<info> AI dodge to 2 20 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 27 3
+<info> AI dodge to 28 4 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 2 20
+<info> AI dodge to 3 21 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 28 4
+<info> AI dodge to 29 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 3 21
+<info> AI dodge to 2 20 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 29 3
+<info> AI dodge to 28 4 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 2 20
+<info> AI dodge to 3 19 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 3 19
+<info> AI dodge to 4 18 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 28 4
+<info> AI dodge to 27 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 27 3
+<info> AI dodge to 26 2 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 2
+<info> AI dodge to 25 3 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 25 3
+<info> AI dodge to 26 4 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 4
+<info> AI dodge to 27 5 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 27 5
+<info> AI dodge to 26 6 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 26 6
+<info> AI dodge to 27 5 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 27 5
+<info> AI dodge to 30 2 AI.goOn=0
+<info> AI dodge count=6 AI.goOn=2
+<info> AI dodge from 13 9
+<info> AI dodge to 14 10 AI.goOn=0
+<info> AI dodge count=2 AI.goOn=1
+<info> AI dodge from 30 2
+<info> AI dodge to 27 12 AI.goOn=0
+<info> AI dodge count=17 AI.goOn=5
